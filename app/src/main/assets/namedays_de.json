@@ -1,0 +1,2963 @@
+{
+  "saints": [
+    {
+      "canonicalName": "Maria",
+      "description": "Maria ist die Mutter Jesu Christi und die bedeutendste Heilige der katholischen Kirche. Sie wird als Gottesmutter, Jungfrau und Fuersprechnerin der Glaeubigen verehrt. Zahlreiche Wallfahrtsorte und Kirchen sind ihr weltweit gewidmet.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": "Patronin von Bayern, der Muetter und der Jungfrauen",
+      "nameDays": [
+        {
+          "month": 1,
+          "day": 1
+        },
+        {
+          "month": 9,
+          "day": 12
+        }
+      ]
+    },
+    {
+      "canonicalName": "Johannes",
+      "description": "Johannes der Taeufer war ein juedischer Bussprediger und gilt als Vorlaufer Jesu Christi. Er taufte Jesus im Jordan und wurde auf Befehl von Herodes Antipas enthauptet. Sein Gedenktag am 24. Juni zaehlt zu den aeltesten Festen der Kirche.",
+      "bornYear": null,
+      "diedYear": 30,
+      "patronOf": "Patron der Lammerherden, Schneider und Gerber",
+      "nameDays": [
+        {
+          "month": 6,
+          "day": 24
+        },
+        {
+          "month": 12,
+          "day": 27
+        }
+      ]
+    },
+    {
+      "canonicalName": "Josef",
+      "description": "Der heilige Josef war der Naehrvater Jesu und Ehemann Marias. Er war von Beruf Zimmermann und stammte aus dem Hause David. Josef gilt als Vorbild fuer Vaeter und Familienoberhaeupter.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": "Patron der Arbeiter, Zimmerleute und der Sterbenden",
+      "nameDays": [
+        {
+          "month": 3,
+          "day": 19
+        },
+        {
+          "month": 5,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "canonicalName": "Elisabeth",
+      "description": "Die heilige Elisabeth von Thueringen (1207-1231) war eine ungarische Koenigstochter und Landgraefin von Thueringen. Sie widmete ihr Leben den Armen und Kranken und gruendete ein Hospital in Marburg. Bereits vier Jahre nach ihrem Tod wurde sie heiliggesprochen.",
+      "bornYear": 1207,
+      "diedYear": 1231,
+      "patronOf": "Patronin der Naechstenliebe, Baecker und Kranken",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 19
+        }
+      ]
+    },
+    {
+      "canonicalName": "Katharina",
+      "description": "Die heilige Katharina von Alexandrien war eine fruehchristliche Maertyrerin aus dem 4. Jahrhundert. Der Legende nach war sie eine gelehrte Koenigstochter, die 50 Philosophen im Disput besiegte. Sie wurde auf einem Rad gemartert und enthauptet.",
+      "bornYear": null,
+      "diedYear": 305,
+      "patronOf": "Patronin der Philosophen, Gelehrten und Rechtsanwaelte",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "canonicalName": "Martin",
+      "description": "Der heilige Martin von Tours (316-397) war roemischer Soldat und spaeter Bischof von Tours. Bekannt ist die Legende der Mantelteilung, bei der er seinen Mantel mit einem frierenden Bettler teilte. Der Martinstag am 11. November wird mit Laternenumzuegen gefeiert.",
+      "bornYear": 316,
+      "diedYear": 397,
+      "patronOf": "Patron der Soldaten, Reiter, Gaense und Armen",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 11
+        },
+        {
+          "month": 4,
+          "day": 13
+        }
+      ]
+    },
+    {
+      "canonicalName": "Nikolaus",
+      "description": "Der heilige Nikolaus von Myra (um 270-343) war Bischof in der heutigen Tuerkei. Er ist bekannt fuer seine Grosszuegigkeit und gilt als Vorbild fuer den Weihnachtsmann. Zahlreiche Legenden berichten von seinen Wundertaten und seiner Hilfe fuer Beduerfftige.",
+      "bornYear": 270,
+      "diedYear": 343,
+      "patronOf": "Patron der Kinder, Seefahrer und Kaufleute",
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 6
+        },
+        {
+          "month": 9,
+          "day": 10
+        }
+      ]
+    },
+    {
+      "canonicalName": "Andreas",
+      "description": "Der heilige Andreas war einer der zwoelf Apostel Jesu und Bruder von Simon Petrus. Er war Fischer am See Genezareth und wurde als erster von Jesus berufen. Der Ueberlieferung nach starb er am Kreuz in X-Form, dem sogenannten Andreaskreuz.",
+      "bornYear": null,
+      "diedYear": 60,
+      "patronOf": "Patron der Fischer, Metzger und Bergleute",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 30
+        }
+      ]
+    },
+    {
+      "canonicalName": "Michael",
+      "description": "Der Erzengel Michael ist einer der drei in der Bibel namentlich genannten Engel. Er gilt als Anfuehrer der himmlischen Heerscharen im Kampf gegen den Teufel. In der christlichen Kunst wird er haeufig mit Schwert und Waage dargestellt.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": "Patron der Soldaten, Polizisten und der Sterbenden",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 29
+        },
+        {
+          "month": 5,
+          "day": 8
+        }
+      ]
+    },
+    {
+      "canonicalName": "Thomas",
+      "description": "Der heilige Thomas war einer der zwoelf Apostel und ist bekannt als der 'unglaeubige Thomas', da er an der Auferstehung Jesu zweifelte. Der Ueberlieferung nach missionierte er in Indien, wo er das Martyrium erlitt. Er ist Patron der Architekten und Bauarbeiter.",
+      "bornYear": null,
+      "diedYear": 72,
+      "patronOf": "Patron der Architekten, Bauarbeiter und Theologen",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 3
+        },
+        {
+          "month": 12,
+          "day": 29
+        }
+      ]
+    },
+    {
+      "canonicalName": "Stefan",
+      "description": "Der heilige Stephanus war der erste christliche Maertyrer und einer der sieben Diakone der Urgemeinde in Jerusalem. Er wurde wegen seines Glaubens gesteinigt und ist damit der Protomartyr der Kirche. Sein Gedenktag wird am zweiten Weihnachtstag begangen.",
+      "bornYear": null,
+      "diedYear": 36,
+      "patronOf": "Patron der Maurer, Steinmetze und Pferde",
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "canonicalName": "Barbara",
+      "description": "Die heilige Barbara von Nikomedien war eine fruehchristliche Maertyrerin aus dem 3. Jahrhundert. Der Legende nach wurde sie von ihrem eigenen Vater enthauptet, weil sie sich zum Christentum bekannte. Am Barbaratag werden Kirschzweige geschnitten, die zu Weihnachten bluehen sollen.",
+      "bornYear": null,
+      "diedYear": 306,
+      "patronOf": "Patronin der Bergleute, Artillerie und Feuerwehr",
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 4
+        }
+      ]
+    },
+    {
+      "canonicalName": "Margarete",
+      "description": "Die heilige Margareta von Antiochien war eine fruehchristliche Maertyrerin, die im 3. Jahrhundert lebte. Der Legende nach besiegte sie einen Drachen und ueberstand zahlreiche Folterungen. Sie gehoert zu den vierzehn Nothelfern und wird besonders von Schwangeren angerufen.",
+      "bornYear": null,
+      "diedYear": 305,
+      "patronOf": "Patronin der Schwangeren, Geburt und Bauern",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 20
+        }
+      ]
+    },
+    {
+      "canonicalName": "Anna",
+      "description": "Die heilige Anna ist laut christlicher Ueberlieferung die Mutter der Gottesmutter Maria und Grossmutter Jesu. Ihr Kult verbreitete sich besonders im Mittelalter in ganz Europa. Sie wird als Patronin der Muetter und fuer eine gute Ehe verehrt.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": "Patronin der Muetter, Grossmuetter und Hausfrauen",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "canonicalName": "Peter",
+      "description": "Der heilige Petrus war der erste der zwoelf Apostel und gilt als erster Bischof von Rom. Jesus gab ihm den Namen Petrus (Fels) und uebergab ihm die Schluessel des Himmelreichs. Er erlitt unter Kaiser Nero das Martyrium durch Kreuzigung mit dem Kopf nach unten.",
+      "bornYear": null,
+      "diedYear": 67,
+      "patronOf": "Patron der Paepste, Fischer und Schlosser",
+      "nameDays": [
+        {
+          "month": 6,
+          "day": 29
+        },
+        {
+          "month": 2,
+          "day": 22
+        }
+      ]
+    },
+    {
+      "canonicalName": "Paul",
+      "description": "Der heilige Paulus von Tarsus war zunaechst Verfolger der Christen, bevor er durch ein Bekehrungserlebnis zum bedeutendsten Missionar des Urchristentums wurde. Seine Briefe bilden einen wesentlichen Teil des Neuen Testaments. Er wurde in Rom unter Kaiser Nero enthauptet.",
+      "bornYear": null,
+      "diedYear": 67,
+      "patronOf": "Patron der Theologen, Seelsorger und Weber",
+      "nameDays": [
+        {
+          "month": 6,
+          "day": 29
+        },
+        {
+          "month": 1,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "canonicalName": "Georg",
+      "description": "Der heilige Georg war ein roemischer Soldat und christlicher Maertyrer aus Kappadokien. Die bekannteste Legende berichtet, wie er einen Drachen toetete und eine Koenigstochter befreite. Er gehoert zu den vierzehn Nothelfern und ist Patron zahlreicher Laender.",
+      "bornYear": null,
+      "diedYear": 303,
+      "patronOf": "Patron der Soldaten, Reiter, Pfadfinder und Bauern",
+      "nameDays": [
+        {
+          "month": 4,
+          "day": 23
+        },
+        {
+          "month": 10,
+          "day": 28
+        }
+      ]
+    },
+    {
+      "canonicalName": "Markus",
+      "description": "Der heilige Markus war einer der vier Evangelisten und Verfasser des aeltesten Evangeliums. Er begleitete Paulus und Barnabas auf ihrer ersten Missionsreise und gruendete die Kirche in Alexandrien. Seine Reliquien befinden sich im Markusdom in Venedig.",
+      "bornYear": null,
+      "diedYear": 68,
+      "patronOf": "Patron von Venedig, der Notare und Glaser",
+      "nameDays": [
+        {
+          "month": 4,
+          "day": 25
+        },
+        {
+          "month": 9,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "canonicalName": "Lukas",
+      "description": "Der heilige Lukas war Arzt, Evangelist und Verfasser des Lukasevangeliums sowie der Apostelgeschichte. Er war Begleiter des Apostels Paulus auf dessen Missionsreisen. Die Tradition schreibt ihm auch die erste Marienikone zu.",
+      "bornYear": null,
+      "diedYear": 84,
+      "patronOf": "Patron der Aerzte, Maler und Kunsthandwerker",
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 18
+        }
+      ]
+    },
+    {
+      "canonicalName": "Matthias",
+      "description": "Der heilige Matthias wurde nach der Himmelfahrt Jesu als Nachfolger des Judas Iskariot in den Kreis der zwoelf Apostel gewaehlt. Der Ueberlieferung nach missionierte er in Judaea und Aethiopien. Seine Reliquien werden in der Abtei St. Matthias in Trier verehrt.",
+      "bornYear": null,
+      "diedYear": 63,
+      "patronOf": "Patron der Zimmerleute, Metzger und Trinker",
+      "nameDays": [
+        {
+          "month": 2,
+          "day": 24
+        }
+      ]
+    },
+    {
+      "canonicalName": "Franziskus",
+      "description": "Der heilige Franz von Assisi (1181/82-1226) gruendete den Franziskanerorden und ist einer der meistverehrten Heiligen der Kirche. Er predigte Armut, Demut und die Liebe zur gesamten Schoepfung. Der Ueberlieferung nach empfing er die Stigmata Christi.",
+      "bornYear": 1182,
+      "diedYear": 1226,
+      "patronOf": "Patron der Tiere, Umwelt und Kaufleute",
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 4
+        }
+      ]
+    },
+    {
+      "canonicalName": "Franz Xaver",
+      "description": "Der heilige Franz Xaver (1506-1552) war ein baskischer Jesuit und einer der groessten christlichen Missionare. Er missionierte in Indien, Suedostasien und Japan und taufte dabei Tausende. Er starb vor den Toren Chinas auf der Insel Shangchuan.",
+      "bornYear": 1506,
+      "diedYear": 1552,
+      "patronOf": "Patron der Missionen und Missionare",
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 3
+        }
+      ]
+    },
+    {
+      "canonicalName": "Bernhard",
+      "description": "Der heilige Bernhard von Clairvaux (1090-1153) war ein franzoesischer Zisterzienserabt und einer der einflussreichsten Kirchenmaenner des 12. Jahrhunderts. Er gruendete zahlreiche Kloester und war Berater von Paepsten und Koenigen. Er wurde 1174 zum Kirchenlehrer erhoben.",
+      "bornYear": 1090,
+      "diedYear": 1153,
+      "patronOf": "Patron der Imker, Bienen und Kerzenzieher",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 20
+        },
+        {
+          "month": 9,
+          "day": 28
+        }
+      ]
+    },
+    {
+      "canonicalName": "Heinrich",
+      "description": "Der heilige Heinrich II. (973-1024) war roemisch-deutscher Kaiser und letzter Herrscher aus dem Geschlecht der Ottonen. Gemeinsam mit seiner Frau Kunigunde foerderte er die Kirche und gruendete das Bistum Bamberg. Er wurde 1146 heiliggesprochen.",
+      "bornYear": 973,
+      "diedYear": 1024,
+      "patronOf": "Patron von Bamberg und der Benediktineroblaten",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 13
+        }
+      ]
+    },
+    {
+      "canonicalName": "Wolfgang",
+      "description": "Der heilige Wolfgang von Regensburg (924-994) war Bischof von Regensburg und bedeutender Kirchenreformer. Er wirkte als Missionar bei den Ungarn und reformierte das Kloster- und Schulwesen. Er ist einer der grossen Heiligen Bayerns und Oesterreichs.",
+      "bornYear": 924,
+      "diedYear": 994,
+      "patronOf": "Patron der Holzhacker, Hirten und Zimmerleute",
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 31
+        },
+        {
+          "month": 5,
+          "day": 11
+        }
+      ]
+    },
+    {
+      "canonicalName": "Ludwig",
+      "description": "Der heilige Ludwig IX. von Frankreich (1214-1270) war Koenig von Frankreich und gilt als Idealbild eines christlichen Herrschers. Er foerderte die Rechtspflege, gruendete Hospitaeler und unternahm zwei Kreuzzuege. Er starb waehrend des siebten Kreuzzugs vor Tunis.",
+      "bornYear": 1214,
+      "diedYear": 1270,
+      "patronOf": "Patron der franzoesischen Koenige, Kreuzfahrer und Gefangenen",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 25
+        },
+        {
+          "month": 10,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "canonicalName": "Konrad",
+      "description": "Der heilige Konrad von Konstanz (um 900-975) war Bischof von Konstanz und stammte aus dem welfischen Adelsgeschlecht. Er war fuer seine Froemmigkeit, Mildtaetigkeit und Pilgerreisen nach Jerusalem bekannt. Er wurde 1123 heiliggesprochen.",
+      "bornYear": 900,
+      "diedYear": 975,
+      "patronOf": "Patron von Konstanz und der Bodenseeschiffer",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 26
+        },
+        {
+          "month": 2,
+          "day": 19
+        }
+      ]
+    },
+    {
+      "canonicalName": "Ulrich",
+      "description": "Der heilige Ulrich von Augsburg (890-973) war Bischof von Augsburg und der erste Heilige, der in einem formellen Kanonisationsverfahren heiliggesprochen wurde. Er verteidigte Augsburg erfolgreich gegen die Ungarn in der Schlacht auf dem Lechfeld 955. Sein Wirken praegte die Stadt Augsburg nachhaltig.",
+      "bornYear": 890,
+      "diedYear": 973,
+      "patronOf": "Patron von Augsburg, der Weber und Fischer",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 4
+        },
+        {
+          "month": 7,
+          "day": 14
+        }
+      ]
+    },
+    {
+      "canonicalName": "Otto",
+      "description": "Der heilige Otto von Bamberg (1060-1139) war Bischof von Bamberg und Missionar Pommerns. Er christianisierte erfolgreich die slawischen Voelker an der Ostsee und gruendete zahlreiche Kirchen. Er wird als Apostel der Pommern verehrt.",
+      "bornYear": 1060,
+      "diedYear": 1139,
+      "patronOf": "Patron von Pommern und Bamberg",
+      "nameDays": [
+        {
+          "month": 6,
+          "day": 30
+        }
+      ]
+    },
+    {
+      "canonicalName": "Karl",
+      "description": "Der heilige Karl Borromaeus (1538-1584) war Erzbischof von Mailand und einer der fuehrenden Reformer der katholischen Kirche nach dem Konzil von Trient. Er kuemmerte sich aufopfernd um die Pestkranken und reformierte die Priesterausbildung grundlegend. Er wurde 1610 heiliggesprochen.",
+      "bornYear": 1538,
+      "diedYear": 1584,
+      "patronOf": "Patron der Seelsorger, Seminaristen und Apfelbauern",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 4
+        }
+      ]
+    },
+    {
+      "canonicalName": "Friedrich",
+      "description": "Der heilige Friedrich von Utrecht (um 780-838) war Bischof von Utrecht und Enkel des friesischen Koenigs Radbod. Er setzte sich fuer die Christianisierung Frieslands ein und wurde wegen seiner strengen Moralpredigt ermordet. Er starb als Maertyrer fuer seinen Glauben.",
+      "bornYear": 780,
+      "diedYear": 838,
+      "patronOf": "Patron gegen Taubheit",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 18
+        }
+      ]
+    },
+    {
+      "canonicalName": "Sebastian",
+      "description": "Der heilige Sebastian war ein roemischer Offizier und christlicher Maertyrer unter Kaiser Diokletian. Der Legende nach wurde er an einen Baum gebunden und mit Pfeilen durchbohrt, ueberlebte dies jedoch. Spaeter wurde er auf Befehl des Kaisers zu Tode gepruegelt.",
+      "bornYear": null,
+      "diedYear": 288,
+      "patronOf": "Patron der Soldaten, Schuetzen und Sterbenden",
+      "nameDays": [
+        {
+          "month": 1,
+          "day": 20
+        },
+        {
+          "month": 2,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "canonicalName": "Valentin",
+      "description": "Der heilige Valentin von Terni war ein Bischof und Maertyrer im 3. Jahrhundert. Er soll Liebespaare heimlich getraut und ihnen Blumen aus seinem Garten geschenkt haben. Sein Gedenktag am 14. Februar ist heute als Valentinstag weltweit bekannt.",
+      "bornYear": null,
+      "diedYear": 269,
+      "patronOf": "Patron der Liebenden, Imker und gegen Epilepsie",
+      "nameDays": [
+        {
+          "month": 2,
+          "day": 14
+        }
+      ]
+    },
+    {
+      "canonicalName": "Patrick",
+      "description": "Der heilige Patrick (um 385-461) ist der Nationalheilige Irlands und einer der bekanntesten Missionare der Kirchengeschichte. Er wurde als Jugendlicher von irischen Piraten verschleppt und kehrte spaeter als Missionar nach Irland zurueck. Er soll die Schlangen aus Irland vertrieben haben.",
+      "bornYear": 385,
+      "diedYear": 461,
+      "patronOf": "Patron von Irland, Ingenieure und gegen Schlangenbisse",
+      "nameDays": [
+        {
+          "month": 3,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "canonicalName": "Florian",
+      "description": "Der heilige Florian (um 250-304) war ein roemischer Beamter in der Provinz Noricum im heutigen Oesterreich. Er bekannte sich zum Christentum und wurde waehrend der Christenverfolgung unter Diokletian in der Enns ertraenkt. Er ist einer der bekanntesten Heiligen Oesterreichs und Bayerns.",
+      "bornYear": 250,
+      "diedYear": 304,
+      "patronOf": "Patron der Feuerwehr, Schornsteinfeger und gegen Feuersgefahr",
+      "nameDays": [
+        {
+          "month": 5,
+          "day": 4
+        }
+      ]
+    },
+    {
+      "canonicalName": "Philipp",
+      "description": "Der heilige Philippus war einer der zwoelf Apostel Jesu und stammte aus Bethsaida in Galilaea. Er brachte Nathanael zu Jesus und war bei der Speisung der Fuenftausend beteiligt. Der Ueberlieferung nach predigte er in Kleinasien und erlitt dort das Martyrium.",
+      "bornYear": null,
+      "diedYear": 80,
+      "patronOf": "Patron der Hutmacher und Konditor",
+      "nameDays": [
+        {
+          "month": 5,
+          "day": 3
+        }
+      ]
+    },
+    {
+      "canonicalName": "Benedikt",
+      "description": "Der heilige Benedikt von Nursia (um 480-547) ist der Gruender des Benediktinerordens und Vater des abendlaendischen Moenchstums. Seine Regel 'Ora et labora' (Bete und arbeite) praegte das europaeische Klosterleben bis heute. Er wurde 1964 zum Patron Europas erklaert.",
+      "bornYear": 480,
+      "diedYear": 547,
+      "patronOf": "Patron Europas, der Schulkinder und gegen Vergiftung",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 11
+        }
+      ]
+    },
+    {
+      "canonicalName": "Bonifatius",
+      "description": "Der heilige Bonifatius (um 673-754) war ein angelsaechsischer Benediktinermoench und der Apostel der Deutschen. Er missionierte in Germanien, gruendete Kloester und organisierte die Kirche in Deutschland. Er wurde bei Dokkum in Friesland erschlagen.",
+      "bornYear": 673,
+      "diedYear": 754,
+      "patronOf": "Patron Deutschlands, der Bierbrauer und Schneider",
+      "nameDays": [
+        {
+          "month": 6,
+          "day": 5
+        }
+      ]
+    },
+    {
+      "canonicalName": "Norbert",
+      "description": "Der heilige Norbert von Xanten (um 1080-1134) war Gruender des Praemonstratenserordens und Erzbischof von Magdeburg. Nach einem Bekehrungserlebnis widmete er sein Leben der kirchlichen Erneuerung und Seelsorge. Er wurde 1582 heiliggesprochen.",
+      "bornYear": 1080,
+      "diedYear": 1134,
+      "patronOf": "Patron der Geburt und fuer eine friedliche Niederkunft",
+      "nameDays": [
+        {
+          "month": 6,
+          "day": 6
+        }
+      ]
+    },
+    {
+      "canonicalName": "Antonius",
+      "description": "Der heilige Antonius von Padua (1195-1231) war ein portugiesischer Franziskanerpater und einer der beliebtesten Volksheiligen. Er war ein begnadeter Prediger und wird bei verlorenen Gegenstaenden angerufen. Bereits ein Jahr nach seinem Tod wurde er heiliggesprochen.",
+      "bornYear": 1195,
+      "diedYear": 1231,
+      "patronOf": "Patron der Armen, Liebenden und fuer verlorene Dinge",
+      "nameDays": [
+        {
+          "month": 6,
+          "day": 13
+        }
+      ]
+    },
+    {
+      "canonicalName": "Christoph",
+      "description": "Der heilige Christophorus war der Ueberlieferung nach ein Riese, der das Jesuskind ueber einen Fluss trug. Sein Name bedeutet 'Christustraeger'. Er gehoert zu den vierzehn Nothelfern und ist besonders als Schutzpatron der Reisenden beliebt.",
+      "bornYear": null,
+      "diedYear": 250,
+      "patronOf": "Patron der Reisenden, Autofahrer und Pilger",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 24
+        }
+      ]
+    },
+    {
+      "canonicalName": "Dominikus",
+      "description": "Der heilige Dominikus (1170-1221) war ein spanischer Priester und Gruender des Dominikanerordens (Predigerorden). Er setzte sich fuer die Bekehrung der Katharer in Suedfrankreich ein und betonte die Bedeutung der theologischen Bildung. Der Rosenkranz wird ihm traditionell zugeschrieben.",
+      "bornYear": 1170,
+      "diedYear": 1221,
+      "patronOf": "Patron der Astronomen und gegen Fieber",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 8
+        }
+      ]
+    },
+    {
+      "canonicalName": "Laurentius",
+      "description": "Der heilige Laurentius (um 225-258) war Erzdiakon der roemischen Kirche unter Papst Sixtus II. Er verteilte das Kirchenvermoegen an die Armen und wurde auf einem Rost zu Tode gemartert. Der Legende nach rief er seinen Peinigern zu: 'Dreht mich um, diese Seite ist gar.'",
+      "bornYear": 225,
+      "diedYear": 258,
+      "patronOf": "Patron der Koeche, Bibliothekare und Feuerwehr",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 10
+        }
+      ]
+    },
+    {
+      "canonicalName": "Augustinus",
+      "description": "Der heilige Augustinus von Hippo (354-430) war Kirchenvater, Bischof und einer der bedeutendsten christlichen Theologen. Nach einem ausschweifenden Jugendleben bekehrte er sich und wurde getauft. Seine 'Bekenntnisse' und 'Vom Gottesstaat' zaehlen zu den Hauptwerken der Theologie.",
+      "bornYear": 354,
+      "diedYear": 430,
+      "patronOf": "Patron der Theologen, Drucker und Bierbrauer",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 28
+        }
+      ]
+    },
+    {
+      "canonicalName": "Gregor",
+      "description": "Der heilige Gregor der Grosse (um 540-604) war Papst und Kirchenlehrer. Er reformierte die Liturgie, foerderte den Gregorianischen Gesang und entsandte Missionare nach England. Er gilt als einer der bedeutendsten Paepste der Kirchengeschichte.",
+      "bornYear": 540,
+      "diedYear": 604,
+      "patronOf": "Patron der Musiker, Saenger und Gelehrten",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 3
+        }
+      ]
+    },
+    {
+      "canonicalName": "Hildegard",
+      "description": "Die heilige Hildegard von Bingen (1098-1179) war Benediktinerin, Mystikerin und Universalgelehrte. Sie verfasste Werke ueber Medizin, Naturkunde und Musik und hatte Visionen, die sie in Bild und Schrift festhielt. Sie wurde 2012 zur Kirchenlehrerin erhoben.",
+      "bornYear": 1098,
+      "diedYear": 1179,
+      "patronOf": "Patronin der Naturheilkunde und Sprachforscher",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "canonicalName": "Theresia",
+      "description": "Die heilige Theresia von Avila (1515-1582) war eine spanische Karmelitin und Mystikerin. Sie reformierte den Karmeliterorden und verfasste bedeutende Werke der mystischen Theologie. Sie wurde 1970 als erste Frau zur Kirchenlehrerin erhoben.",
+      "bornYear": 1515,
+      "diedYear": 1582,
+      "patronOf": "Patronin Spaniens, der Schriftsteller und gegen Herzleiden",
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 15
+        }
+      ]
+    },
+    {
+      "canonicalName": "Hedwig",
+      "description": "Die heilige Hedwig von Schlesien (1174-1243) war Herzogin von Schlesien und Gruenderin zahlreicher Kloester und Hospitaeler. Sie stammte aus dem bayerischen Geschlecht der Andechs-Meranier und lebte nach dem Tod ihres Mannes als Nonne. Sie wurde 1267 heiliggesprochen.",
+      "bornYear": 1174,
+      "diedYear": 1243,
+      "patronOf": "Patronin von Schlesien, der Waisen und Vertriebenen",
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 16
+        }
+      ]
+    },
+    {
+      "canonicalName": "Ursula",
+      "description": "Die heilige Ursula war der Legende nach eine britannische Koenigstochter, die mit ihren Gefaehrtinnen auf einer Pilgerreise bei Koeln von den Hunnen ermordet wurde. Die Legende von den 11.000 Jungfrauen machte sie zu einer der bekanntesten Heiligen des Mittelalters. Sie ist Patronin der Stadt Koeln.",
+      "bornYear": null,
+      "diedYear": 383,
+      "patronOf": "Patronin von Koeln, der Jugend und Lehrerinnen",
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 21
+        }
+      ]
+    },
+    {
+      "canonicalName": "Caecilia",
+      "description": "Die heilige Caecilia ist eine fruehchristliche Maertyrerin aus Rom, die im 2. oder 3. Jahrhundert starb. Der Legende nach sang sie bei ihrer Hochzeit im Herzen Gott zu Ehren, weshalb sie Patronin der Kirchenmusik wurde. Sie gehoert zu den in der Messe genannten Heiligen.",
+      "bornYear": null,
+      "diedYear": 230,
+      "patronOf": "Patronin der Kirchenmusik, Musiker und Saenger",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 22
+        }
+      ]
+    },
+    {
+      "canonicalName": "Lucia",
+      "description": "Die heilige Lucia von Syrakus war eine fruehchristliche Maertyrerin, die waehrend der Christenverfolgung unter Diokletian um 304 starb. Ihr Name bedeutet 'die Leuchtende' und ihr Fest am 13. Dezember wird besonders in Skandinavien als Lichterfest gefeiert. Sie ist eine der vierzehn Nothelferinnen.",
+      "bornYear": 283,
+      "diedYear": 304,
+      "patronOf": "Patronin der Blinden, Augenkranken und Elektriker",
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 13
+        }
+      ]
+    },
+    {
+      "canonicalName": "Adelheid",
+      "description": "Die heilige Adelheid (um 931-999) war Kaiserin des Heiligen Roemischen Reiches und zweite Gemahlin Kaiser Ottos I. Sie war bekannt fuer ihre Froemmigkeit und Mildtaetigkeit gegenueber den Armen. Nach dem Tod ihres Mannes gruendete sie zahlreiche Kloester.",
+      "bornYear": 931,
+      "diedYear": 999,
+      "patronOf": "Patronin gegen Augenleiden und fuer Gefangene",
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 16
+        }
+      ]
+    },
+    {
+      "canonicalName": "Klara",
+      "description": "Die heilige Klara von Assisi (1194-1253) war die Gruenderin des Klarissenordens und Gefaehrtin des heiligen Franziskus. Sie stammte aus einer adeligen Familie und entschied sich fuer ein Leben in Armut und Gebet. Sie wurde 1255 heiliggesprochen.",
+      "bornYear": 1194,
+      "diedYear": 1253,
+      "patronOf": "Patronin des Fernsehens, der Stickerinnen und gegen Augenleiden",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 11
+        }
+      ]
+    },
+    {
+      "canonicalName": "Rosa",
+      "description": "Die heilige Rosa von Lima (1586-1617) war die erste Heilige Amerikas und lebte in Lima, Peru. Sie fuehrte ein Leben strenger Busse und mystischer Vereinigung mit Gott. Sie wurde 1671 heiliggesprochen und ist Patronin von Lateinamerika.",
+      "bornYear": 1586,
+      "diedYear": 1617,
+      "patronOf": "Patronin von Lateinamerika, Peru und der Gaertner",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 23
+        }
+      ]
+    },
+    {
+      "canonicalName": "Monika",
+      "description": "Die heilige Monika (332-387) war die Mutter des Kirchenvaters Augustinus. Sie betete jahrzehntelang fuer die Bekehrung ihres Sohnes, der ein ausschweifendes Leben fuehrte. Ihre Beharrlichkeit im Gebet wurde belohnt, als Augustinus sich taufen liess.",
+      "bornYear": 332,
+      "diedYear": 387,
+      "patronOf": "Patronin der Muetter, Ehefrauen und gegen Untreue",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 27
+        }
+      ]
+    },
+    {
+      "canonicalName": "Agatha",
+      "description": "Die heilige Agatha von Catania war eine fruehchristliche Maertyrerin aus Sizilien, die um 251 starb. Sie widerstand den Avancen des roemischen Statthalters und wurde grausam gemartert. Ihr Fest am 5. Februar wird besonders in Sizilien und im Alpenraum gefeiert.",
+      "bornYear": null,
+      "diedYear": 251,
+      "patronOf": "Patronin gegen Feuersgefahr, der Ammen und Glockengiessser",
+      "nameDays": [
+        {
+          "month": 2,
+          "day": 5
+        }
+      ]
+    },
+    {
+      "canonicalName": "Dorothea",
+      "description": "Die heilige Dorothea von Caesarea war eine fruehchristliche Maertyrerin, die waehrend der Christenverfolgung unter Diokletian um 304 starb. Der Legende nach sandte ein Engel Blumen und Fruechte aus dem Paradies als Zeichen ihres Glaubens. Sie ist eine beliebte Heilige in der Volksfroemmigkeit.",
+      "bornYear": null,
+      "diedYear": 304,
+      "patronOf": "Patronin der Gaertner, Braute und Blumenhaendler",
+      "nameDays": [
+        {
+          "month": 2,
+          "day": 6
+        }
+      ]
+    },
+    {
+      "canonicalName": "Veronika",
+      "description": "Die heilige Veronika soll Jesus auf dem Kreuzweg ein Schweisstuch gereicht haben, auf dem sich sein Antlitz abbildete. Ihr Name wird als 'Vera Icon' (wahres Bild) gedeutet. Sie wird als Patronin der Fotografen und Waescherinnen verehrt.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": "Patronin der Fotografen, Waescherinnen und Leinenhaeandler",
+      "nameDays": [
+        {
+          "month": 2,
+          "day": 4
+        }
+      ]
+    },
+    {
+      "canonicalName": "Gertrud",
+      "description": "Die heilige Gertrud von Nivelles (626-659) war Aebtissin des Klosters Nivelles in Belgien und Tochter des fraenkischen Hausmeiers Pippin des Aelteren. Sie war bekannt fuer ihre Gastfreundschaft gegenueber Pilgern und ihre mystische Froemmigkeit. Sie wird oft mit Maeusen dargestellt.",
+      "bornYear": 626,
+      "diedYear": 659,
+      "patronOf": "Patronin der Gaertner, Reisenden und gegen Maeuseplalagen",
+      "nameDays": [
+        {
+          "month": 3,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "canonicalName": "Mechthild",
+      "description": "Die heilige Mechthild von Hackeborn (1241-1299) war eine deutsche Mystikerin und Benediktinerin im Kloster Helfta. Ihre mystischen Erfahrungen wurden im 'Buch der besonderen Gnade' aufgezeichnet. Sie zaehlt zu den bedeutendsten deutschen Mystikerinnen des Mittelalters.",
+      "bornYear": 1241,
+      "diedYear": 1299,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 2,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "canonicalName": "Birgitta",
+      "description": "Die heilige Birgitta von Schweden (1303-1373) war eine schwedische Mystikerin und Gruenderin des Birgittenordens. Sie empfing zahlreiche Offenbarungen und setzte sich fuer die Rueckkehr des Papstes von Avignon nach Rom ein. Sie wurde 1391 heiliggesprochen und ist Patronin Europas.",
+      "bornYear": 1303,
+      "diedYear": 1373,
+      "patronOf": "Patronin Europas und Schwedens",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 23
+        }
+      ]
+    },
+    {
+      "canonicalName": "Edith",
+      "description": "Die heilige Edith Stein (1891-1942) war eine deutsche Philosophin juedischer Herkunft, die zum Katholizismus konvertierte und Karmelitin wurde. Sie wurde im Konzentrationslager Auschwitz ermordet und 1998 von Papst Johannes Paul II. heiliggesprochen. Ihr Ordensname war Teresia Benedicta a Cruce.",
+      "bornYear": 1891,
+      "diedYear": 1942,
+      "patronOf": "Patronin Europas",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "canonicalName": "Brigitte",
+      "description": "Die heilige Brigid von Kildare (um 451-525) ist neben Patrick eine der Nationalheiligen Irlands. Sie gruendete das Kloster Kildare und war fuer ihre Grosszuegigkeit und Wundertaten bekannt. Ihr Name bedeutet 'die Erhabene' und ihr Fest wird am 1. Februar begangen.",
+      "bornYear": 451,
+      "diedYear": 525,
+      "patronOf": "Patronin von Irland, der Kuehe und Milchmaedchen",
+      "nameDays": [
+        {
+          "month": 2,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "canonicalName": "Christina",
+      "description": "Die heilige Christina von Bolsena war eine fruehchristliche Maertyrerin aus dem 3. Jahrhundert. Der Legende nach wurde sie von ihrem eigenen Vater verfolgt und erlitt zahlreiche Martern fuer ihren Glauben. Sie wird als Patronin der Muellerin und Bogenschuetzen verehrt.",
+      "bornYear": null,
+      "diedYear": 304,
+      "patronOf": "Patronin der Mueller und Bogenschuetzen",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 24
+        }
+      ]
+    },
+    {
+      "canonicalName": "Albert",
+      "description": "Der heilige Albert der Grosse (um 1200-1280) war ein deutscher Dominikaner, Bischof und Universalgelehrter. Er war Lehrer des Thomas von Aquin und verfasste Werke ueber Theologie, Philosophie und Naturwissenschaften. Er wurde 1931 zum Kirchenlehrer erhoben.",
+      "bornYear": 1200,
+      "diedYear": 1280,
+      "patronOf": "Patron der Naturwissenschaftler und Studenten",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 15
+        }
+      ]
+    },
+    {
+      "canonicalName": "Leopold",
+      "description": "Der heilige Leopold III. von Oesterreich (1073-1136) war Markgraf von Oesterreich und Landespatron. Er gruendete die Stifte Klosterneuburg und Heiligenkreuz und war fuer seine gerechte Herrschaft bekannt. Er wurde 1485 heiliggesprochen.",
+      "bornYear": 1073,
+      "diedYear": 1136,
+      "patronOf": "Patron von Oesterreich, Niederoestereich und Wien",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 15
+        }
+      ]
+    },
+    {
+      "canonicalName": "Hubertus",
+      "description": "Der heilige Hubertus von Luettich (um 655-727) war Bischof von Luettich und gilt als Apostel der Ardennen. Der Legende nach erschien ihm bei der Jagd ein Hirsch mit einem Kreuz zwischen dem Geweih, was ihn zur Bekehrung fuehrte. Er ist der Schutzpatron der Jaeger.",
+      "bornYear": 655,
+      "diedYear": 727,
+      "patronOf": "Patron der Jaeger, Schuetzen, Optiker und Metallarbeiter",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 3
+        }
+      ]
+    },
+    {
+      "canonicalName": "Klemens",
+      "description": "Der heilige Clemens von Rom war der dritte Nachfolger des Apostels Petrus als Bischof von Rom und starb um das Jahr 101. Sein Brief an die Korinther ist eines der aeltesten christlichen Dokumente ausserhalb des Neuen Testaments. Der Ueberlieferung nach wurde er im Meer versenkt.",
+      "bornYear": null,
+      "diedYear": 101,
+      "patronOf": "Patron der Seeleute, Marmorarbeiter und Hutmacher",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 23
+        }
+      ]
+    },
+    {
+      "canonicalName": "Silvester",
+      "description": "Der heilige Silvester I. war Papst von 314 bis 335 und leitete die Kirche in der Zeit Kaiser Konstantins. Unter seinem Pontifikat fand das Konzil von Nicaea statt und der Petersdom wurde erbaut. Sein Gedenktag am 31. Dezember praegt den Namen fuer den letzten Tag des Jahres.",
+      "bornYear": null,
+      "diedYear": 335,
+      "patronOf": "Patron fuer ein gutes neues Jahr und der Haustiere",
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 31
+        }
+      ]
+    },
+    {
+      "canonicalName": "Felix",
+      "description": "Der heilige Felix von Nola (um 200-260) war Priester in Nola bei Neapel und ueberstand die Christenverfolgung auf wundersame Weise. Er lebte in grosser Armut und Demut und wurde nach seinem Tod als Wundertaeter verehrt. Sein Grab wurde zur bedeutenden Wallfahrtsstaette.",
+      "bornYear": 200,
+      "diedYear": 260,
+      "patronOf": "Patron der Kinder und gegen Augenleiden",
+      "nameDays": [
+        {
+          "month": 1,
+          "day": 14
+        }
+      ]
+    },
+    {
+      "canonicalName": "Agnes",
+      "description": "Die heilige Agnes von Rom war eine fruehchristliche Maertyrerin, die um 304 im Alter von zwoelf oder dreizehn Jahren hingerichtet wurde. Sie weigerte sich, einen heidnischen Mann zu heiraten und ihr Jungfraeulichkeitsgeluebde zu brechen. Ihr Name bedeutet 'die Reine'.",
+      "bornYear": 291,
+      "diedYear": 304,
+      "patronOf": "Patronin der Jungfrauen, Gaertner und Verlobten",
+      "nameDays": [
+        {
+          "month": 1,
+          "day": 21
+        }
+      ]
+    },
+    {
+      "canonicalName": "Blasius",
+      "description": "Der heilige Blasius von Sebaste war Bischof und Maertyrer in Armenien und starb um 316. Der Legende nach rettete er einen Jungen, der an einer Fischgraete zu ersticken drohte. Der Blasiussegen gegen Halskrankheiten wird bis heute am 3. Februar gespendet.",
+      "bornYear": null,
+      "diedYear": 316,
+      "patronOf": "Patron gegen Halskrankheiten, der Aerzte und Bauarbeiter",
+      "nameDays": [
+        {
+          "month": 2,
+          "day": 3
+        }
+      ]
+    },
+    {
+      "canonicalName": "Kaspar",
+      "description": "Der heilige Kaspar ist einer der Heiligen Drei Koenige, die laut dem Matthaeus-Evangelium dem Stern nach Bethlehem folgten. Die Tradition kennt die Namen Kaspar, Melchior und Balthasar. Am Dreikoenigstag werden die Haeuser mit den Buchstaben C+M+B gesegnet.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 1,
+          "day": 6
+        }
+      ]
+    },
+    {
+      "canonicalName": "Melchior",
+      "description": "Der heilige Melchior ist einer der Heiligen Drei Koenige und wird in der Tradition als Koenig aus Persien dargestellt. Er brachte dem Jesuskind Gold als Geschenk. Die Reliquien der Drei Koenige werden im Koelner Dom aufbewahrt.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 1,
+          "day": 6
+        }
+      ]
+    },
+    {
+      "canonicalName": "Balthasar",
+      "description": "Der heilige Balthasar ist einer der Heiligen Drei Koenige und wird traditionell als afrikanischer Koenig dargestellt. Er brachte dem Jesuskind Myrrhe als Geschenk. Die Sternsinger ziehen an seinem Gedenktag von Haus zu Haus.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": "Patron der Spielkartenmacher und Gastwirte",
+      "nameDays": [
+        {
+          "month": 1,
+          "day": 6
+        }
+      ]
+    },
+    {
+      "canonicalName": "Antonius der Grosse",
+      "description": "Der heilige Antonius der Grosse (um 251-356) war ein aegyptischer Einsiedler und gilt als Vater des christlichen Moenchstums. Er lebte als Eremit in der Wueste und widerstand zahlreichen Versuchungen des Teufels. Seine Lebensgeschichte inspirierte unzaehlige Kuenstler und Glaeubige.",
+      "bornYear": 251,
+      "diedYear": 356,
+      "patronOf": "Patron der Haustiere, Metzger und gegen Hauterkrankungen",
+      "nameDays": [
+        {
+          "month": 1,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "canonicalName": "Fabian",
+      "description": "Der heilige Fabian war Papst von 236 bis 250 und starb als Maertyrer unter Kaiser Decius. Der Legende nach wurde er durch eine Taube zum Papst erwaehlt. Er organisierte die roemische Kirche in sieben Diakonatsbezirke.",
+      "bornYear": null,
+      "diedYear": 250,
+      "patronOf": "Patron der Toepfer und gegen die Pest",
+      "nameDays": [
+        {
+          "month": 1,
+          "day": 20
+        }
+      ]
+    },
+    {
+      "canonicalName": "Timotheus",
+      "description": "Der heilige Timotheus war ein Schueler und Begleiter des Apostels Paulus und erster Bischof von Ephesus. Paulus richtete zwei Briefe an ihn, die im Neuen Testament enthalten sind. Er erlitt der Ueberlieferung nach das Martyrium in Ephesus.",
+      "bornYear": null,
+      "diedYear": 97,
+      "patronOf": "Patron gegen Magenleiden",
+      "nameDays": [
+        {
+          "month": 1,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "canonicalName": "Thomas von Aquin",
+      "description": "Der heilige Thomas von Aquin (1225-1274) war ein italienischer Dominikaner und der bedeutendste Theologe des Mittelalters. Sein Hauptwerk 'Summa Theologiae' ist ein Grundpfeiler der katholischen Theologie. Er wurde 1323 heiliggesprochen und zum Kirchenlehrer erhoben.",
+      "bornYear": 1225,
+      "diedYear": 1274,
+      "patronOf": "Patron der Universitaeten, Studenten und Philosophen",
+      "nameDays": [
+        {
+          "month": 1,
+          "day": 28
+        }
+      ]
+    },
+    {
+      "canonicalName": "Franz von Sales",
+      "description": "Der heilige Franz von Sales (1567-1622) war Bischof von Genf und Kirchenlehrer. Er begruendete eine milde, menschenfreundliche Spiritualitaet und verfasste die 'Philothea', ein Klassiker der Froemmigkeitsliteratur. Gemeinsam mit Johanna Franziska von Chantal gruendete er den Orden der Heimsuchung.",
+      "bornYear": 1567,
+      "diedYear": 1622,
+      "patronOf": "Patron der Journalisten, Schriftsteller und Gehoerlosen",
+      "nameDays": [
+        {
+          "month": 1,
+          "day": 24
+        }
+      ]
+    },
+    {
+      "canonicalName": "Scholastika",
+      "description": "Die heilige Scholastika (um 480-547) war die Zwillingsschwester des heiligen Benedikt von Nursia und Benediktinerin. Sie gilt als Mitbegruenderin des weiblichen Benediktinerordens. Der Legende nach erflehte sie ein Gewitter, damit ihr Bruder laenger bei ihr blieb.",
+      "bornYear": 480,
+      "diedYear": 547,
+      "patronOf": "Patronin gegen Gewitter und Regen, der Kinder",
+      "nameDays": [
+        {
+          "month": 2,
+          "day": 10
+        }
+      ]
+    },
+    {
+      "canonicalName": "Cyrill",
+      "description": "Der heilige Cyrill (826-869) war zusammen mit seinem Bruder Methodius der Apostel der Slawen. Er entwickelte die glagolitische Schrift als Grundlage der kyrillischen Schrift und uebersetzte liturgische Texte ins Slawische. Die beiden Brueder sind Patronen Europas.",
+      "bornYear": 826,
+      "diedYear": 869,
+      "patronOf": "Patron Europas und der slawischen Voelker",
+      "nameDays": [
+        {
+          "month": 2,
+          "day": 14
+        }
+      ]
+    },
+    {
+      "canonicalName": "Petrus Damiani",
+      "description": "Der heilige Petrus Damiani (1007-1072) war ein italienischer Benediktiner, Kardinal und Kirchenlehrer. Er setzte sich energisch fuer die Kirchenreform und gegen Simonie ein. Er verfasste zahlreiche theologische Schriften und Briefe.",
+      "bornYear": 1007,
+      "diedYear": 1072,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 2,
+          "day": 21
+        }
+      ]
+    },
+    {
+      "canonicalName": "Roman",
+      "description": "Der heilige Romanus war ein Moench und Einsiedler, der im 5. Jahrhundert im franzoesischen Jura lebte. Er gruendete mehrere Kloester und lebte ein vorbildliches Leben der Askese und des Gebets. Er starb um das Jahr 460.",
+      "bornYear": null,
+      "diedYear": 460,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 2,
+          "day": 28
+        }
+      ]
+    },
+    {
+      "canonicalName": "Kunigunde",
+      "description": "Die heilige Kunigunde von Luxemburg (um 978-1033) war Kaiserin des Heiligen Roemischen Reiches und Gemahlin Kaiser Heinrichs II. Sie gruendete zusammen mit ihrem Mann das Bistum Bamberg und trat nach seinem Tod ins Kloster ein. Sie wurde 1200 heiliggesprochen.",
+      "bornYear": 978,
+      "diedYear": 1033,
+      "patronOf": "Patronin von Bamberg und Luxemburg",
+      "nameDays": [
+        {
+          "month": 3,
+          "day": 3
+        }
+      ]
+    },
+    {
+      "canonicalName": "Kasimir",
+      "description": "Der heilige Kasimir von Polen (1458-1484) war ein litauischer Prinz und Koenigssohn, der sich durch tiefe Froemmigkeit und Naechstenliebe auszeichnete. Er verzichtete auf den Thron und lebte in strenger Askese. Er starb jung an Tuberkulose und ist Patron Litauens.",
+      "bornYear": 1458,
+      "diedYear": 1484,
+      "patronOf": "Patron von Litauen und der Jugend",
+      "nameDays": [
+        {
+          "month": 3,
+          "day": 4
+        }
+      ]
+    },
+    {
+      "canonicalName": "Franziska",
+      "description": "Die heilige Franziska von Rom (1384-1440) war eine roemische Adelige, die sich karitativ fuer die Armen und Kranken einsetzte. Sie gruendete die Gemeinschaft der Oblaten von Tor de' Specchi. Sie ist bekannt fuer ihre Visionen und ihren Schutzengel.",
+      "bornYear": 1384,
+      "diedYear": 1440,
+      "patronOf": "Patronin der Autofahrer und Witwen",
+      "nameDays": [
+        {
+          "month": 3,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "canonicalName": "Klemens Maria Hofbauer",
+      "description": "Der heilige Klemens Maria Hofbauer (1751-1820) war ein oesterreichischer Redemptoristen-Priester und Stadtpatron von Wien. Er wirkte als Seelsorger in Warschau und Wien und kaempfte gegen den Josephinismus. Er wurde 1909 heiliggesprochen.",
+      "bornYear": 1751,
+      "diedYear": 1820,
+      "patronOf": "Patron von Wien und der Baecker",
+      "nameDays": [
+        {
+          "month": 3,
+          "day": 15
+        }
+      ]
+    },
+    {
+      "canonicalName": "Rupert",
+      "description": "Der heilige Rupert von Salzburg (um 650-718) war ein Bischof und Missionar, der als Apostel Bayerns und Salzburgs gilt. Er gruendete das Stift St. Peter und das Frauenstift Nonnberg in Salzburg. Sein Wirken praegte die Christianisierung des sueddeutschen Raumes.",
+      "bornYear": 650,
+      "diedYear": 718,
+      "patronOf": "Patron von Salzburg und der Salzarbeiter",
+      "nameDays": [
+        {
+          "month": 3,
+          "day": 27
+        }
+      ]
+    },
+    {
+      "canonicalName": "Hugo",
+      "description": "Der heilige Hugo von Grenoble (1053-1132) war Bischof von Grenoble und unterstuetzte den heiligen Bruno bei der Gruendung der Kartaeuser. Er setzte sich fuer die Kirchenreform und die Armen ein. Er wurde 1134 heiliggesprochen.",
+      "bornYear": 1053,
+      "diedYear": 1132,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 4,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "canonicalName": "Isidor",
+      "description": "Der heilige Isidor von Sevilla (um 560-636) war Erzbischof von Sevilla und einer der letzten grossen Gelehrten der Antike. Seine 'Etymologiae' waren ein umfassendes Lexikon des antiken Wissens. Er wurde 1722 zum Kirchenlehrer erhoben.",
+      "bornYear": 560,
+      "diedYear": 636,
+      "patronOf": "Patron des Internets, der Schueler und Informatiker",
+      "nameDays": [
+        {
+          "month": 4,
+          "day": 4
+        }
+      ]
+    },
+    {
+      "canonicalName": "Hermann",
+      "description": "Der heilige Hermann von Reichenau (1013-1054) war ein deutscher Benediktinermoench und Universalgelehrter auf der Klosterinsel Reichenau. Trotz schwerer koerperlicher Behinderung war er Mathematiker, Astronom und Komponist. Er verfasste das Gebet 'Salve Regina'.",
+      "bornYear": 1013,
+      "diedYear": 1054,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 4,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "canonicalName": "Stanislaus",
+      "description": "Der heilige Stanislaus von Krakau (1030-1079) war Bischof von Krakau und Maertyrer. Er exkommunizierte Koenig Boleslav II. wegen dessen Grausamkeit und wurde daraufhin vom Koenig ermordet. Er ist einer der Nationalheiligen Polens.",
+      "bornYear": 1030,
+      "diedYear": 1079,
+      "patronOf": "Patron von Polen und Krakau",
+      "nameDays": [
+        {
+          "month": 4,
+          "day": 11
+        }
+      ]
+    },
+    {
+      "canonicalName": "Anselm",
+      "description": "Der heilige Anselm von Canterbury (1033-1109) war Erzbischof von Canterbury und bedeutender Theologe und Philosoph. Er begruendete den ontologischen Gottesbeweis und verfasste wichtige Werke wie 'Cur Deus homo'. Er wurde 1720 zum Kirchenlehrer erhoben.",
+      "bornYear": 1033,
+      "diedYear": 1109,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 4,
+          "day": 21
+        }
+      ]
+    },
+    {
+      "canonicalName": "Fidelis",
+      "description": "Der heilige Fidelis von Sigmaringen (1578-1622) war ein deutscher Kapuziner und Maertyrer. Er wurde als Missionar zu den Protestanten in die Schweiz gesandt und dort von aufgebrachten Bauern erschlagen. Er war der erste Maertyrer der Kongregation fuer die Glaubensverbreitung.",
+      "bornYear": 1578,
+      "diedYear": 1622,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 4,
+          "day": 24
+        }
+      ]
+    },
+    {
+      "canonicalName": "Katharina von Siena",
+      "description": "Die heilige Katharina von Siena (1347-1380) war eine italienische Mystikerin, Dominikanerterziarin und Kirchenlehrerin. Sie ueberredete Papst Gregor XI. zur Rueckkehr von Avignon nach Rom und verfasste den 'Dialog der goettlichen Vorsehung'. Sie ist Patronin Europas und Italiens.",
+      "bornYear": 1347,
+      "diedYear": 1380,
+      "patronOf": "Patronin Europas, Italiens und der Krankenschwestern",
+      "nameDays": [
+        {
+          "month": 4,
+          "day": 29
+        }
+      ]
+    },
+    {
+      "canonicalName": "Sigismund",
+      "description": "Der heilige Sigismund (um 475-524) war Koenig der Burgunder und liess sich vom arianischen zum katholischen Glauben bekehren. Er gruendete das Kloster Saint-Maurice im Wallis. Er wurde von den Franken besiegt und ermordet.",
+      "bornYear": 475,
+      "diedYear": 524,
+      "patronOf": "Patron von Boehmen und gegen Fieber",
+      "nameDays": [
+        {
+          "month": 5,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "canonicalName": "Godehard",
+      "description": "Der heilige Godehard von Hildesheim (960-1038) war Bischof von Hildesheim und bedeutender Klosterreformer. Er reformierte zahlreiche Kloester in Sueddeutschland und Bayern nach der Benediktregel. Der Gotthardpass in den Alpen ist nach ihm benannt.",
+      "bornYear": 960,
+      "diedYear": 1038,
+      "patronOf": "Patron gegen Kinderkrankheiten und Blitzschlag",
+      "nameDays": [
+        {
+          "month": 5,
+          "day": 5
+        }
+      ]
+    },
+    {
+      "canonicalName": "Pankratius",
+      "description": "Der heilige Pankratius war ein fruehchristlicher Maertyrer, der um 304 im Alter von 14 Jahren unter Diokletian enthauptet wurde. Er ist einer der Eisheiligen, deren Gedenktage Mitte Mai liegen. Der Bauernregel nach drohen bis zu diesen Tagen noch Nachtfroeste.",
+      "bornYear": 290,
+      "diedYear": 304,
+      "patronOf": "Patron gegen Kopfschmerzen und der Erstkommmunikanten",
+      "nameDays": [
+        {
+          "month": 5,
+          "day": 12
+        }
+      ]
+    },
+    {
+      "canonicalName": "Servatius",
+      "description": "Der heilige Servatius (um 310-384) war Bischof von Tongern und einer der Eisheiligen. Er prophezeite der Ueberlieferung nach den Einfall der Hunnen. Sein Grab in Maastricht wurde zu einer bedeutenden Wallfahrtsstaette.",
+      "bornYear": 310,
+      "diedYear": 384,
+      "patronOf": "Patron gegen Frostschaeden und Rattenplagen",
+      "nameDays": [
+        {
+          "month": 5,
+          "day": 13
+        }
+      ]
+    },
+    {
+      "canonicalName": "Bonifaz",
+      "description": "Der heilige Bonifaz von Tarsus war ein roemischer Christ, der um 306 in Tarsus das Martyrium erlitt. Er reiste in den Osten, um Reliquien von Maertyrern zu sammeln, und wurde selbst zum Maertyrer. Er ist einer der Eisheiligen.",
+      "bornYear": null,
+      "diedYear": 306,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 5,
+          "day": 14
+        }
+      ]
+    },
+    {
+      "canonicalName": "Sophie",
+      "description": "Die heilige Sophie (oder Sophia) war eine fruehchristliche Maertyrerin aus Rom, die der Ueberlieferung nach drei Toechter hatte: Glaube, Hoffnung und Liebe. Sie ist die letzte der Eisheiligen und wird auch 'kalte Sophie' genannt. Nach ihrem Gedenktag gelten Nachtfroeste als unwahrscheinlich.",
+      "bornYear": null,
+      "diedYear": 304,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 5,
+          "day": 15
+        }
+      ]
+    },
+    {
+      "canonicalName": "Johannes Nepomuk",
+      "description": "Der heilige Johannes Nepomuk (um 1345-1393) war Generalvikar des Erzbistums Prag und wurde von Koenig Wenzel IV. in der Moldau ertraenkt. Er gilt als Maertyrer des Beichtgeheimnisses. Seine Statuen finden sich auf zahlreichen Bruecken in Mitteleuropa.",
+      "bornYear": 1345,
+      "diedYear": 1393,
+      "patronOf": "Patron der Bruecken, Beichtvaeter und gegen Wassergefahren",
+      "nameDays": [
+        {
+          "month": 5,
+          "day": 16
+        }
+      ]
+    },
+    {
+      "canonicalName": "Rita",
+      "description": "Die heilige Rita von Cascia (1381-1457) war eine italienische Augustinerin, die als 'Patronin der hoffnungslosen Faelle' bekannt ist. Nach dem gewaltsamen Tod ihres Mannes und ihrer Soehne trat sie ins Kloster ein. Auf ihrer Stirn erschien der Ueberlieferung nach eine Dornenwunde.",
+      "bornYear": 1381,
+      "diedYear": 1457,
+      "patronOf": "Patronin der hoffnungslosen Faelle und Eheprobleme",
+      "nameDays": [
+        {
+          "month": 5,
+          "day": 22
+        }
+      ]
+    },
+    {
+      "canonicalName": "Petrus Canisius",
+      "description": "Der heilige Petrus Canisius (1521-1597) war ein niederlaendischer Jesuit und Kirchenlehrer. Er war massgeblich an der Gegenreformation in Deutschland beteiligt und verfasste einen weit verbreiteten Katechismus. Er wirkte in Ingolstadt, Wien und Freiburg.",
+      "bornYear": 1521,
+      "diedYear": 1597,
+      "patronOf": "Patron Deutschlands und der Katecheten",
+      "nameDays": [
+        {
+          "month": 4,
+          "day": 27
+        }
+      ]
+    },
+    {
+      "canonicalName": "Vitus",
+      "description": "Der heilige Vitus (Veit) war ein fruehchristlicher Maertyrer aus Sizilien, der unter Kaiser Diokletian um 304 starb. Er gehoert zu den vierzehn Nothelfern und sein Name ist mit dem Veitstanz verbunden. Er ist Patron zahlreicher Staedte und Laender.",
+      "bornYear": null,
+      "diedYear": 304,
+      "patronOf": "Patron der Schauspieler, Gastwirte und gegen Epilepsie",
+      "nameDays": [
+        {
+          "month": 6,
+          "day": 15
+        }
+      ]
+    },
+    {
+      "canonicalName": "Alois",
+      "description": "Der heilige Aloisius von Gonzaga (1568-1591) war ein italienischer Jesuit aus adeligem Hause, der auf sein Erbe verzichtete. Er starb jung an der Pest, die er sich bei der Pflege von Pestkranken zugezogen hatte. Er ist der Patron der Studierenden Jugend.",
+      "bornYear": 1568,
+      "diedYear": 1591,
+      "patronOf": "Patron der studierenden Jugend und der AIDS-Kranken",
+      "nameDays": [
+        {
+          "month": 6,
+          "day": 21
+        }
+      ]
+    },
+    {
+      "canonicalName": "Irenaeus",
+      "description": "Der heilige Irenaeus von Lyon (um 135-202) war Bischof von Lyon und bedeutender Kirchenvater. Sein Hauptwerk 'Gegen die Haeresieen' ist eine wichtige Quelle fuer die fruehe Kirchengeschichte. Er starb wahrscheinlich als Maertyrer unter Kaiser Septimius Severus.",
+      "bornYear": 135,
+      "diedYear": 202,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 6,
+          "day": 28
+        }
+      ]
+    },
+    {
+      "canonicalName": "Kilian",
+      "description": "Der heilige Kilian (um 640-689) war ein irischer Moench und Missionar, der den christlichen Glauben nach Franken brachte. Er wirkte als Bischof in Wuerzburg und wurde dort zusammen mit zwei Gefaehrten ermordet. Er ist der Patron des Bistums Wuerzburg und Frankens.",
+      "bornYear": 640,
+      "diedYear": 689,
+      "patronOf": "Patron von Wuerzburg, Franken und gegen Augenleiden",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 8
+        }
+      ]
+    },
+    {
+      "canonicalName": "Bonaventura",
+      "description": "Der heilige Bonaventura (1221-1274) war ein italienischer Franziskaner, Kardinal und Kirchenlehrer. Er war General des Franziskanerordens und Verfasser bedeutender theologischer und mystischer Werke. Er wurde als 'seraphischer Lehrer' bekannt.",
+      "bornYear": 1221,
+      "diedYear": 1274,
+      "patronOf": "Patron der Theologen und Arbeiter",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 15
+        }
+      ]
+    },
+    {
+      "canonicalName": "Ignatius",
+      "description": "Der heilige Ignatius von Loyola (1491-1556) war ein baskischer Adeliger und Gruender der Gesellschaft Jesu (Jesuiten). Nach einer Verwundung im Krieg wandte er sich dem geistlichen Leben zu und verfasste die 'Geistlichen Uebungen'. Sein Orden wurde zu einem der einflussreichsten der Kirchengeschichte.",
+      "bornYear": 1491,
+      "diedYear": 1556,
+      "patronOf": "Patron der Soldaten, Exerzitien und Jesuiten",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 31
+        }
+      ]
+    },
+    {
+      "canonicalName": "Alfons",
+      "description": "Der heilige Alfons von Liguori (1696-1787) war ein italienischer Bischof, Kirchenlehrer und Gruender der Redemptoristen. Er war Jurist, Musiker und Verfasser zahlreicher theologischer und aszetischer Werke. Seine Moraltheologie praegte die katholische Beichtpraxis nachhaltig.",
+      "bornYear": 1696,
+      "diedYear": 1787,
+      "patronOf": "Patron der Moraltheologen und Beichtvaeter",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "canonicalName": "Oswald",
+      "description": "Der heilige Oswald von Northumbrien (604-642) war Koenig von Northumbrien und foerderte die Christianisierung seines Reiches. Er berief den irischen Moench Aidan zur Mission und fiel in einer Schlacht gegen den heidnischen Koenig Penda. Er wurde als Maertyrerkoenig verehrt.",
+      "bornYear": 604,
+      "diedYear": 642,
+      "patronOf": "Patron der Koenige und Krieger",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 5
+        }
+      ]
+    },
+    {
+      "canonicalName": "Kajetan",
+      "description": "Der heilige Kajetan von Thiene (1480-1547) war Mitbegruender des Theatinerordens und setzte sich fuer die innere Erneuerung der Kirche ein. Er gruendete karitative Einrichtungen und kuemmerte sich um die Armen und Kranken. Er wurde 1671 heiliggesprochen.",
+      "bornYear": 1480,
+      "diedYear": 1547,
+      "patronOf": "Patron der Arbeitssuchenden und gegen Arbeitslosigkeit",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "canonicalName": "Maximilian Kolbe",
+      "description": "Der heilige Maximilian Kolbe (1894-1941) war ein polnischer Franziskaner-Konventuale, der im KZ Auschwitz fuer einen Mithaftling in den Hungerbunker ging. Er starb durch eine Giftspritze und wurde 1982 heiliggesprochen. Er ist einer der bedeutendsten Maertyrer des 20. Jahrhunderts.",
+      "bornYear": 1894,
+      "diedYear": 1941,
+      "patronOf": "Patron der politischen Gefangenen und Journalisten",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 14
+        }
+      ]
+    },
+    {
+      "canonicalName": "Helena",
+      "description": "Die heilige Helena (um 248-330) war die Mutter Kaiser Konstantins und unternahm eine Pilgerreise nach Jerusalem. Der Ueberlieferung nach fand sie dort das Heilige Kreuz Christi. Sie liess zahlreiche Kirchen im Heiligen Land errichten.",
+      "bornYear": 248,
+      "diedYear": 330,
+      "patronOf": "Patronin der Archaeologen, Faerber und Bergwerke",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 18
+        }
+      ]
+    },
+    {
+      "canonicalName": "Bartholomaeus",
+      "description": "Der heilige Bartholomaeus war einer der zwoelf Apostel Jesu und wird mit Nathanael aus dem Johannesevangelium gleichgesetzt. Der Ueberlieferung nach missionierte er in Indien und Armenien, wo er den Maertyrertod erlitt. Er wurde bei lebendigem Leib gehaeutet.",
+      "bornYear": null,
+      "diedYear": 71,
+      "patronOf": "Patron der Metzger, Buchbinder und Gerber",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 24
+        }
+      ]
+    },
+    {
+      "canonicalName": "Aegidius",
+      "description": "Der heilige Aegidius (um 640-720) war ein aus Griechenland stammender Einsiedler in der Provence. Er gruendete das Kloster Saint-Gilles in Suedfrankreich. Er gehoert zu den vierzehn Nothelfern und ist einer der beliebtesten Volksheiligen.",
+      "bornYear": 640,
+      "diedYear": 720,
+      "patronOf": "Patron der stillenden Muetter und gegen Angst",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "canonicalName": "Regina",
+      "description": "Die heilige Regina war eine fruehchristliche Maertyrerin aus Autun in Burgund, die im 3. Jahrhundert lebte. Sie wies den roemischen Praefekten Olybrius zurueck und wurde dafuer gemartert und enthauptet. Ihr Name bedeutet 'Koenigin'.",
+      "bornYear": null,
+      "diedYear": 286,
+      "patronOf": "Patronin der Hirten und gegen Armut",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "canonicalName": "Notburga",
+      "description": "Die heilige Notburga (um 1265-1313) war eine Tiroler Dienstmagd, die sich trotz Verbots um die Armen kuemmerte. Der Legende nach schwebte ihre Sichel in der Luft, als ihr verboten wurde, zum Feierabendlaeuten die Arbeit niederzulegen. Sie ist eine beliebte Volksheilige in Tirol und Bayern.",
+      "bornYear": 1265,
+      "diedYear": 1313,
+      "patronOf": "Patronin der Dienstmaegde, Bauern und gegen Missernten",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 14
+        }
+      ]
+    },
+    {
+      "canonicalName": "Lambert",
+      "description": "Der heilige Lambert von Luettich (um 636-705) war Bischof von Maastricht-Luettich und Maertyrer. Er setzte sich fuer die Christianisierung und die kirchliche Disziplin ein und wurde ermordet. Die Stadt Luettich entstand an seinem Grab.",
+      "bornYear": 636,
+      "diedYear": 705,
+      "patronOf": "Patron der Chirurgen und gegen Kinderkrankheiten",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 18
+        }
+      ]
+    },
+    {
+      "canonicalName": "Matthaeus",
+      "description": "Der heilige Matthaeus war einer der zwoelf Apostel und Verfasser des ersten Evangeliums. Er war zuvor Zoellner in Kapharnaum, bevor Jesus ihn berief. Der Ueberlieferung nach erlitt er in Aethiopien das Martyrium.",
+      "bornYear": null,
+      "diedYear": 74,
+      "patronOf": "Patron der Buchhalter, Bankangestellten und Zoellner",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 21
+        }
+      ]
+    },
+    {
+      "canonicalName": "Kosmas",
+      "description": "Die heiligen Kosmas und Damian waren Aerzte-Zwillinge aus Syrien, die unentgeltlich heilten und daher 'Anargyroi' (Geldverachtende) genannt wurden. Sie erlitten der Ueberlieferung nach im Jahr 303 das Martyrium. Sie sind Patrone der Aerzte und Apotheker.",
+      "bornYear": null,
+      "diedYear": 303,
+      "patronOf": "Patron der Aerzte, Apotheker und Chirurgen",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "canonicalName": "Wenzel",
+      "description": "Der heilige Wenzel (um 907-935) war Herzog von Boehmen und Maertyrer. Er foerderte die Christianisierung Boehmens und wurde von seinem Bruder Boleslav ermordet. Er ist der Nationalheilige Tschechiens und sein Standbild ziert den Wenzelsplatz in Prag.",
+      "bornYear": 907,
+      "diedYear": 935,
+      "patronOf": "Patron von Boehmen und Tschechien",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 28
+        }
+      ]
+    },
+    {
+      "canonicalName": "Theresia vom Kinde Jesu",
+      "description": "Die heilige Theresia von Lisieux (1873-1897) war eine franzoesische Karmelitin, die als 'kleine Theresia' bekannt ist. Sie begruendete den 'kleinen Weg' der geistlichen Kindschaft und wurde trotz ihres kurzen Lebens zur Kirchenlehrerin erhoben. Ihre Autobiografie 'Geschichte einer Seele' wurde weltbekannt.",
+      "bornYear": 1873,
+      "diedYear": 1897,
+      "patronOf": "Patronin der Missionen, Blumengaertner und Piloten",
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "canonicalName": "Bruno",
+      "description": "Der heilige Bruno von Koeln (um 1030-1101) war der Gruender des Kartaeuserordens und Lehrer an der Domschule in Reims. Er zog sich mit Gefaehrten in die Einsamkeit der Chartreuse zurueck und gruendete dort das erste Kartaeuserkloster. Sein Orden ist bekannt fuer strenge Askese und Schweigen.",
+      "bornYear": 1030,
+      "diedYear": 1101,
+      "patronOf": "Patron gegen die Pest",
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 6
+        }
+      ]
+    },
+    {
+      "canonicalName": "Wendelin",
+      "description": "Der heilige Wendelin war ein irischer oder schottischer Koenigssohn, der als Einsiedler und Hirte im Saarland lebte. Er gruendete der Legende nach das Kloster Tholey und ist einer der beliebtesten Volksheiligen in Sueddeutschland. Die Stadt St. Wendel ist nach ihm benannt.",
+      "bornYear": null,
+      "diedYear": 617,
+      "patronOf": "Patron der Hirten, Bauern und Landwirte",
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 20
+        }
+      ]
+    },
+    {
+      "canonicalName": "Simon",
+      "description": "Der heilige Simon der Zelot war einer der zwoelf Apostel Jesu. Er traegt den Beinamen 'Zelot' oder 'Kananaeus', was auf seinen Eifer hinweist. Der Ueberlieferung nach predigte er in Persien, wo er zusammen mit dem Apostel Judas Thaddaeus das Martyrium erlitt.",
+      "bornYear": null,
+      "diedYear": 65,
+      "patronOf": "Patron der Gerber, Holzfaeller und Weber",
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 28
+        }
+      ]
+    },
+    {
+      "canonicalName": "Pirmin",
+      "description": "Der heilige Pirmin (um 670-753) war ein Wanderbischof und Klostergruender, der die Abtei Reichenau am Bodensee gruendete. Er gruendete insgesamt ueber 20 Kloester in Sueddeutschland, im Elsass und in der Schweiz. Er war massgeblich an der Christianisierung des Oberrheingebiets beteiligt.",
+      "bornYear": 670,
+      "diedYear": 753,
+      "patronOf": "Patron gegen Schlangenbisse",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 3
+        }
+      ]
+    },
+    {
+      "canonicalName": "Willibrord",
+      "description": "Der heilige Willibrord (658-739) war ein angelsaechsischer Moench und Missionar, der als Apostel der Niederlande und Luxemburgs gilt. Er wurde erster Erzbischof von Utrecht und gruendete die Abtei Echternach. Seine Springprozession in Echternach wird bis heute durchgefuehrt.",
+      "bornYear": 658,
+      "diedYear": 739,
+      "patronOf": "Patron von Luxemburg und gegen Krampfanfaelle",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "canonicalName": "Theodor",
+      "description": "Der heilige Theodor Stratelates war ein roemischer Feldherr und christlicher Maertyrer im 4. Jahrhundert. Er zerstoerte einen heidnischen Tempel und bekannte sich offen zum christlichen Glauben. Er wurde gefoltert und gekreuzigt.",
+      "bornYear": null,
+      "diedYear": 319,
+      "patronOf": "Patron der Soldaten und Rekruten",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "canonicalName": "Columban",
+      "description": "Der heilige Columban (543-615) war ein irischer Moench und einer der bedeutendsten Missionare des fruehmittelalterlichen Europa. Er gruendete Kloester in Frankreich (Luxeuil), Deutschland und Italien (Bobbio). Seine strenge Klosterregel praegte das europaeische Moenchstum.",
+      "bornYear": 543,
+      "diedYear": 615,
+      "patronOf": "Patron der irischen Missionare",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 23
+        }
+      ]
+    },
+    {
+      "canonicalName": "Virgil",
+      "description": "Der heilige Virgil von Salzburg (um 700-784) war ein irischer Moench und Bischof von Salzburg. Er war einer der gelehrtesten Maenner seiner Zeit und vertrat die Lehre von der Kugelgestalt der Erde. Er vollendete den Bau des Salzburger Doms.",
+      "bornYear": 700,
+      "diedYear": 784,
+      "patronOf": "Patron von Salzburg",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 27
+        }
+      ]
+    },
+    {
+      "canonicalName": "Eligius",
+      "description": "Der heilige Eligius (um 588-660) war ein fraenkischer Goldschmied, Muenzmeister und spaeter Bischof von Noyon. Er stellte kunstvolle Reliquienschreine her und setzte sich fuer die Bekehrung der Heiden ein. Er ist der Patron der Goldschmiede und Metallarbeiter.",
+      "bornYear": 588,
+      "diedYear": 660,
+      "patronOf": "Patron der Goldschmiede, Schmiede und Metallarbeiter",
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "canonicalName": "Ambrosius",
+      "description": "Der heilige Ambrosius von Mailand (339-397) war Bischof von Mailand und einer der vier grossen abendlaendischen Kirchenvaeter. Er taufte den heiligen Augustinus und fuehrte den ambrosianischen Gesang ein. Er war bekannt fuer seinen Mut gegenueber Kaiser Theodosius.",
+      "bornYear": 339,
+      "diedYear": 397,
+      "patronOf": "Patron der Imker, Bienen und Wachszieher",
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "canonicalName": "Damasus",
+      "description": "Der heilige Damasus I. (um 305-384) war Papst von 366 bis 384. Er beauftragte den heiligen Hieronymus mit der lateinischen Bibeluebersetzung (Vulgata) und foerderte die Verehrung der roemischen Maertyrer. Er liess die Katakomben als Wallfahrtsstaetten ausgestalten.",
+      "bornYear": 305,
+      "diedYear": 384,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 11
+        }
+      ]
+    },
+    {
+      "canonicalName": "Johannes vom Kreuz",
+      "description": "Der heilige Johannes vom Kreuz (1542-1591) war ein spanischer Karmelit, Mystiker und Kirchenlehrer. Gemeinsam mit Theresia von Avila reformierte er den Karmeliterorden. Seine mystischen Schriften wie 'Die dunkle Nacht der Seele' gehoeren zur Weltliteratur.",
+      "bornYear": 1542,
+      "diedYear": 1591,
+      "patronOf": "Patron der Mystiker und spanischen Dichter",
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 14
+        }
+      ]
+    },
+    {
+      "canonicalName": "Eberhard",
+      "description": "Der heilige Eberhard von Salzburg (um 1085-1164) war Erzbischof von Salzburg und setzte sich fuer die Kirchenreform ein. Er unterstuetzte Papst Alexander III. gegen Kaiser Friedrich Barbarossa. Er war bekannt fuer seine Gelehrsamkeit und Froemmigkeit.",
+      "bornYear": 1085,
+      "diedYear": 1164,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 6,
+          "day": 22
+        }
+      ]
+    },
+    {
+      "canonicalName": "Emmeram",
+      "description": "Der heilige Emmeram (um 600-652) war Bischof und Missionar in Bayern. Er predigte in Regensburg und wurde auf dem Weg nach Rom ermordet. Das Kloster St. Emmeram in Regensburg wurde an seinem Grab errichtet.",
+      "bornYear": 600,
+      "diedYear": 652,
+      "patronOf": "Patron von Regensburg",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 22
+        }
+      ]
+    },
+    {
+      "canonicalName": "Corbinian",
+      "description": "Der heilige Corbinian (um 670-730) war ein fraenkischer Bischof und Missionar, der als Gruender des Bistums Freising gilt. Er missionierte in Bayern und legte den Grundstein fuer die Christianisierung des Landes. Der Baer im Wappen des Erzbistums Muenchen-Freising erinnert an eine Legende ueber ihn.",
+      "bornYear": 670,
+      "diedYear": 730,
+      "patronOf": "Patron des Erzbistums Muenchen-Freising",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 8
+        }
+      ]
+    },
+    {
+      "canonicalName": "Raphael",
+      "description": "Der Erzengel Raphael ist einer der drei in der Bibel genannten Erzengel. Im Buch Tobit begleitet er den jungen Tobias auf seiner Reise und heilt dessen blinden Vater. Sein Name bedeutet 'Gott heilt'.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": "Patron der Reisenden, Apotheker und Kranken",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 29
+        }
+      ]
+    },
+    {
+      "canonicalName": "Gabriel",
+      "description": "Der Erzengel Gabriel ist einer der drei namentlich genannten Erzengel der Bibel. Er verkuendete Maria die Geburt Jesu und ueberbrachte dem Propheten Daniel goettliche Botschaften. Sein Name bedeutet 'Kraft Gottes'.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": "Patron der Postboten, Brieftraeger und Telekommunikation",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 29
+        }
+      ]
+    },
+    {
+      "canonicalName": "Ruediger",
+      "description": "Der heilige Ruediger war ein Geistlicher, der im fruehen Mittelalter wirkte. In der Volksfroemmigkeit wird er besonders im sueddeutschen Raum verehrt. Sein Gedenktag wird regional unterschiedlich begangen.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 11
+        }
+      ]
+    },
+    {
+      "canonicalName": "Teresa von Kalkutta",
+      "description": "Die heilige Teresa von Kalkutta (1910-1997) war eine albanischstaemmige Ordensfrau und Gruenderin der Missionarinnen der Naechstenliebe. Sie widmete ihr Leben den Aermsten der Armen in den Slums von Kalkutta. Sie erhielt 1979 den Friedensnobelpreis und wurde 2016 heiliggesprochen.",
+      "bornYear": 1910,
+      "diedYear": 1997,
+      "patronOf": "Patronin der Freiwilligen und Missionare",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 5
+        }
+      ]
+    },
+    {
+      "canonicalName": "Walpurga",
+      "description": "Die heilige Walpurga (um 710-779) war eine angelsaechsische Benediktinerin und Aebtissin von Heidenheim in Bayern. Sie war die Schwester der Heiligen Willibald und Wunibald. Die Walpurgisnacht am Vorabend ihres Gedenktages wurde in der Volkstradition mit Hexenaberglauben verbunden.",
+      "bornYear": 710,
+      "diedYear": 779,
+      "patronOf": "Patronin der Bauern und gegen Hundebisse",
+      "nameDays": [
+        {
+          "month": 2,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "canonicalName": "Jakobus",
+      "description": "Der heilige Jakobus der Aeltere war einer der zwoelf Apostel und Bruder des Evangelisten Johannes. Er war der erste Apostel, der das Martyrium erlitt, und wurde unter Koenig Herodes Agrippa I. in Jerusalem enthauptet. Seine Grabstaette in Santiago de Compostela ist eines der groessten Pilgerziele der Christenheit.",
+      "bornYear": null,
+      "diedYear": 44,
+      "patronOf": "Patron der Pilger, Spaniens und der Apotheker",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "canonicalName": "Joachim",
+      "description": "Der heilige Joachim ist laut christlicher Ueberlieferung der Vater der Gottesmutter Maria und Ehemann der heiligen Anna. Obwohl er nicht in der Bibel erwaehnt wird, verehrt ihn die Kirche als Grossvater Jesu. Sein Kult verbreitete sich besonders seit dem Mittelalter.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": "Patron der Grossvaeter und Grosseltern",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "canonicalName": "Verena",
+      "description": "Die heilige Verena (3./4. Jahrhundert) war eine aegyptische Jungfrau, die als Missionarin in die Schweiz kam. Sie wirkte in Zurzach und war fuer ihre Werke der Naechstenliebe und Krankenpflege bekannt. Sie ist eine der aeltesten Heiligen der Schweiz.",
+      "bornYear": null,
+      "diedYear": 344,
+      "patronOf": "Patronin der Mueller und Waescherinnen",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "canonicalName": "Erasmus",
+      "description": "Der heilige Erasmus von Antiochia (auch Elmo genannt) war Bischof und Maertyrer, der um 303 starb. Er gehoert zu den vierzehn Nothelfern und ist besonders als Patron der Seeleute bekannt. Das Elmsfeuer auf Schiffsmasten wurde nach ihm benannt.",
+      "bornYear": null,
+      "diedYear": 303,
+      "patronOf": "Patron der Seeleute und gegen Bauchschmerzen",
+      "nameDays": [
+        {
+          "month": 6,
+          "day": 2
+        }
+      ]
+    },
+    {
+      "canonicalName": "Rochus",
+      "description": "Der heilige Rochus (um 1295-1327) war ein franzoesischer Pilger, der auf seiner Wallfahrt nach Rom Pestkranke pflegte und selbst erkrankte. Er wurde von einem Hund ernaehrt, der ihm taeglich Brot brachte. Er ist einer der meistverehrten Pestheiligen.",
+      "bornYear": 1295,
+      "diedYear": 1327,
+      "patronOf": "Patron gegen die Pest, Seuchen und Knieerkrankungen",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 16
+        }
+      ]
+    },
+    {
+      "canonicalName": "Bruno von Wuerzburg",
+      "description": "Der heilige Bruno von Wuerzburg (um 1005-1045) war Bischof von Wuerzburg und Verwandter Kaiser Heinrichs III. Er foerderte den Kirchenbau und die Bildung in seinem Bistum. Er starb bei einem Einsturz der kaiserlichen Pfalz in Boedfeld.",
+      "bornYear": 1005,
+      "diedYear": 1045,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 5,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "canonicalName": "Wunibald",
+      "description": "Der heilige Wunibald (um 701-761) war ein angelsaechsischer Benediktiner und Bruder der heiligen Walburga und des heiligen Willibald. Er gruendete das Kloster Heidenheim in Mittelfranken. Er war massgeblich an der Missionierung Bayerns und Frankens beteiligt.",
+      "bornYear": 701,
+      "diedYear": 761,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 18
+        }
+      ]
+    },
+    {
+      "canonicalName": "Vinzenz",
+      "description": "Der heilige Vinzenz von Paul (1581-1660) war ein franzoesischer Priester und Gruender der Lazaristen sowie der Barmherzigen Schwestern. Er widmete sein Leben den Armen, Kranken und Galeerensklaven. Er gilt als Vater der organisierten Caritas.",
+      "bornYear": 1581,
+      "diedYear": 1660,
+      "patronOf": "Patron der Kranken, Gefangenen und Waisenkinder",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 27
+        }
+      ]
+    },
+    {
+      "canonicalName": "Damian",
+      "description": "Der heilige Damian war zusammen mit seinem Zwillingsbruder Kosmas ein Arzt in Syrien, der ohne Entgelt heilte. Beide erlitten um 303 das Martyrium unter Diokletian. Sie werden in der orthodoxen und katholischen Kirche gemeinsam verehrt.",
+      "bornYear": null,
+      "diedYear": 303,
+      "patronOf": "Patron der Aerzte, Apotheker und Zaehnaerzte",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "canonicalName": "Gerhard",
+      "description": "Der heilige Gerhard von Csanad (um 980-1046) war ein venezianischer Benediktiner und erster Bischof von Csanad in Ungarn. Er foerderte die Christianisierung Ungarns unter Koenig Stephan I. Er wurde von heidnischen Aufstaendischen ermordet.",
+      "bornYear": 980,
+      "diedYear": 1046,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 24
+        }
+      ]
+    },
+    {
+      "canonicalName": "Dionysius",
+      "description": "Der heilige Dionysius von Paris (3. Jahrhundert) war der erste Bischof von Paris und Maertyrer. Der Legende nach trug er nach seiner Enthauptung seinen Kopf noch mehrere Kilometer. Er gehoert zu den vierzehn Nothelfern und ist Patron von Frankreich.",
+      "bornYear": null,
+      "diedYear": 272,
+      "patronOf": "Patron von Paris und Frankreich, gegen Kopfschmerzen",
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "canonicalName": "Eduard",
+      "description": "Der heilige Eduard der Bekenner (um 1003-1066) war Koenig von England und wurde fuer seine Froemmigkeit und Gerechtigkeit verehrt. Er liess die Abtei von Westminster erbauen und war der letzte angelsaechsische Koenig. Er wurde 1161 heiliggesprochen.",
+      "bornYear": 1003,
+      "diedYear": 1066,
+      "patronOf": "Patron der Koenige und schwierigen Ehen",
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 13
+        }
+      ]
+    },
+    {
+      "canonicalName": "Gall",
+      "description": "Der heilige Gallus (um 550-646) war ein irischer Moench und Schueler des heiligen Columban. Er gruendete die Einsiedelei, aus der spaeter die Abtei und Stadt St. Gallen in der Schweiz entstanden. Er ist einer der grossen Missionare des Bodenseeraums.",
+      "bornYear": 550,
+      "diedYear": 646,
+      "patronOf": "Patron von St. Gallen und gegen Fieber",
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 16
+        }
+      ]
+    },
+    {
+      "canonicalName": "Ernst",
+      "description": "Der selige Ernst von Pardubitz (um 1297-1364) war der erste Erzbischof von Prag und Begruender der Prager Universitaet. Er war ein enger Berater Kaiser Karls IV. und setzte sich fuer die Kirchenreform ein. Er foerderte Bildung und Kultur in Boehmen.",
+      "bornYear": 1297,
+      "diedYear": 1364,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 6,
+          "day": 30
+        }
+      ]
+    },
+    {
+      "canonicalName": "Walter",
+      "description": "Der heilige Walter von Pontoise (um 1030-1099) war ein franzoesischer Benediktinerabt, der sich gegen die Simonie und fuer die Kirchenreform einsetzte. Er versuchte mehrfach, aus seinem Amt zu fliehen, wurde aber immer wieder zurueckgerufen. Er starb als vorbildlicher Abt.",
+      "bornYear": 1030,
+      "diedYear": 1099,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 4,
+          "day": 8
+        }
+      ]
+    },
+    {
+      "canonicalName": "Maximilian",
+      "description": "Der heilige Maximilian von Tebessa (um 274-295) war ein junger Christ aus Nordafrika, der den Militaerdienst aus Glaubensgruenden verweigerte. Er wurde dafuer unter Kaiser Diokletian hingerichtet und gilt als einer der fruehesten christlichen Kriegsdienstverweigerer. Er war erst 21 Jahre alt bei seinem Tod.",
+      "bornYear": 274,
+      "diedYear": 295,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 3,
+          "day": 12
+        }
+      ]
+    },
+    {
+      "canonicalName": "Lioba",
+      "description": "Die heilige Lioba (um 710-782) war eine angelsaechsische Benediktinerin und enge Mitarbeiterin des heiligen Bonifatius bei der Missionierung Germaniens. Sie wurde Aebtissin des Klosters Tauberbischofsheim und war fuer ihre Gelehrsamkeit und Tugend bekannt.",
+      "bornYear": 710,
+      "diedYear": 782,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 28
+        }
+      ]
+    },
+    {
+      "canonicalName": "Willibald",
+      "description": "Der heilige Willibald (um 700-787) war ein angelsaechsischer Benediktiner und erster Bischof von Eichstaett. Er unternahm eine ausfuehrliche Pilgerreise ins Heilige Land und arbeitete eng mit dem heiligen Bonifatius zusammen. Sein Reisebericht gilt als aeltester bekannter Reisebericht eines Englaenders.",
+      "bornYear": 700,
+      "diedYear": 787,
+      "patronOf": "Patron von Eichstaett",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "canonicalName": "Alexander",
+      "description": "Der heilige Alexander von Rom war ein roemischer Soldat und Maertyrer, der unter Kaiser Maximian um 303 in Bergamo enthauptet wurde. Er wird besonders in Oberitalien und Sueddeutschland verehrt. Mehrere Kirchen in der Region sind ihm gewidmet.",
+      "bornYear": null,
+      "diedYear": 303,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 5,
+          "day": 3
+        }
+      ]
+    },
+    {
+      "canonicalName": "Crispin",
+      "description": "Die heiligen Crispinus und Crispinianus waren Brueder und christliche Maertyrer im 3. Jahrhundert in Soissons. Sie arbeiteten als Schuhmacher und predigten den Glauben. Sie wurden unter Kaiser Diokletian hingerichtet.",
+      "bornYear": null,
+      "diedYear": 286,
+      "patronOf": "Patron der Schuhmacher und Lederarbeiter",
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "canonicalName": "Korbinian",
+      "description": "Der heilige Korbinian (um 670-730) ist identisch mit Corbinian und war Gruender des Bistums Freising. Er missionierte in Bayern und wird besonders im Erzbistum Muenchen und Freising verehrt. Der Freisinger Mohr im Wappen des Erzbistums erinnert an seine Legende.",
+      "bornYear": 670,
+      "diedYear": 730,
+      "patronOf": "Patron des Erzbistums Muenchen-Freising",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 20
+        }
+      ]
+    },
+    {
+      "canonicalName": "Johanna",
+      "description": "Die heilige Johanna von Orleans (1412-1431) war eine franzoesische Nationalheldin und Maertyrerin. Sie fuehrte im Hundertjaehrigen Krieg das franzoesische Heer zum Sieg und wurde in Rouen auf dem Scheiterhaufen verbrannt. Sie wurde 1920 heiliggesprochen.",
+      "bornYear": 1412,
+      "diedYear": 1431,
+      "patronOf": "Patronin von Frankreich und der Soldatinnen",
+      "nameDays": [
+        {
+          "month": 5,
+          "day": 30
+        }
+      ]
+    },
+    {
+      "canonicalName": "Bernhardin",
+      "description": "Der heilige Bernhardin von Siena (1380-1444) war ein italienischer Franziskaner und einer der grossen Volksprediger des Mittelalters. Er verbreitete die Verehrung des Namens Jesu mit dem IHS-Monogramm. Er wurde 1450 heiliggesprochen.",
+      "bornYear": 1380,
+      "diedYear": 1444,
+      "patronOf": "Patron der Prediger und Wollweber",
+      "nameDays": [
+        {
+          "month": 5,
+          "day": 20
+        }
+      ]
+    },
+    {
+      "canonicalName": "Hieronymus",
+      "description": "Der heilige Hieronymus (347-420) war ein Kirchenvater und Bibeluebersetzer. Er uebersetzte die Bibel ins Lateinische (Vulgata), die fuer Jahrhunderte die massgebliche Bibeluebersetzung der westlichen Kirche war. Er lebte als Einsiedler in einer Hoehle in Bethlehem.",
+      "bornYear": 347,
+      "diedYear": 420,
+      "patronOf": "Patron der Uebersetzer, Gelehrten und Bibliothekare",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 30
+        }
+      ]
+    },
+    {
+      "canonicalName": "Benjamin",
+      "description": "Der heilige Benjamin war ein Diakon in Persien, der im fruehen 5. Jahrhundert fuer seinen Glauben das Martyrium erlitt. Er predigte trotz eines Verbots durch den persischen Koenig Yazdegerd I. weiter das Christentum. Um das Jahr 424 wurde er hingerichtet.",
+      "bornYear": null,
+      "diedYear": 424,
+      "patronOf": "Patron der Diakone",
+      "nameDays": [
+        {
+          "month": 3,
+          "day": 31
+        },
+        {
+          "month": 12,
+          "day": 19
+        }
+      ]
+    },
+    {
+      "canonicalName": "Daniel",
+      "description": "Der Prophet Daniel lebte im 6. Jahrhundert vor Christus und wurde als junger Mann nach Babylon verschleppt. Er ist bekannt fuer seine Standhaftigkeit im Glauben und die Rettung aus der Loewengrube. Das Buch Daniel im Alten Testament traegt seinen Namen.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": "Patron der Bergleute",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 21
+        }
+      ]
+    },
+    {
+      "canonicalName": "Christian",
+      "description": "Der heilige Christian von Preussen war ein Zisterzienserbischof und erster Bischof von Preussen im 13. Jahrhundert. Er widmete sein Leben der Missionierung der Prussen und gruendete mehrere Kloester in der Region.",
+      "bornYear": null,
+      "diedYear": 1245,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 4
+        }
+      ]
+    },
+    {
+      "canonicalName": "David",
+      "description": "Der heilige David von Wales war ein walisischer Bischof und gilt als Schutzpatron von Wales. Er lebte im 6. Jahrhundert und gruendete zahlreiche Kloester. Sein Gedenktag am 1. Maerz ist der walisische Nationalfeiertag.",
+      "bornYear": null,
+      "diedYear": 601,
+      "patronOf": "Patron von Wales und der Tauben",
+      "nameDays": [
+        {
+          "month": 3,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "canonicalName": "Tobias",
+      "description": "Tobias ist eine biblische Gestalt aus dem Buch Tobit im Alten Testament. Er unternahm auf Gottes Geheiss eine gefaehrliche Reise, begleitet vom Erzengel Raphael. Die Geschichte gilt als Vorbild fuer Gottvertrauen und Gehorsam.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 2
+        }
+      ]
+    },
+    {
+      "canonicalName": "Matthias Apostel",
+      "description": "Der Apostel Matthias wurde nach der Himmelfahrt Christi als Ersatz fuer Judas Iskariot in den Kreis der Zwoelf Apostel gewaehlt. Er verkuendete das Evangelium in Judaea und Aethiopien. Sein Grab wird im Trierer Dom verehrt.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": "Patron der Zimmerleute und der Stadt Trier",
+      "nameDays": [
+        {
+          "month": 2,
+          "day": 24
+        }
+      ]
+    },
+    {
+      "canonicalName": "Markus Evangelist",
+      "description": "Der Evangelist Markus verfasste das aelteste der vier Evangelien. Er war Begleiter der Apostel Paulus und Petrus und gruendete die Kirche von Alexandria. Seine Reliquien werden im Markusdom in Venedig aufbewahrt.",
+      "bornYear": null,
+      "diedYear": 68,
+      "patronOf": "Patron von Venedig und der Notare",
+      "nameDays": [
+        {
+          "month": 4,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "canonicalName": "Claudia",
+      "description": "Die heilige Claudia war eine fruehchristliche Maertyrerin aus dem 2. Jahrhundert. Sie wird in den fruehen Maertyrerakten erwaehnt und starb fuer ihren christlichen Glauben unter roemischer Verfolgung.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 18
+        }
+      ]
+    },
+    {
+      "canonicalName": "Sandra",
+      "description": "Der Namenstag von Sandra leitet sich von Alexandra ab. Die heilige Alexandra war eine fruehchristliche Maertyrerin, die im 4. Jahrhundert in Kleinasien fuer ihren Glauben starb. Sie wird in der orthodoxen und katholischen Kirche verehrt.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 4,
+          "day": 20
+        }
+      ]
+    },
+    {
+      "canonicalName": "Julia",
+      "description": "Die heilige Julia von Korsika war eine fruehchristliche Maertyrerin aus dem 5. Jahrhundert. Sie wurde als Sklavin nach Nordafrika verkauft und erlitt auf Korsika das Martyrium, als sie sich weigerte, heidnischen Goettern zu opfern.",
+      "bornYear": null,
+      "diedYear": 439,
+      "patronOf": "Patronin von Korsika",
+      "nameDays": [
+        {
+          "month": 5,
+          "day": 22
+        }
+      ]
+    },
+    {
+      "canonicalName": "Sarah",
+      "description": "Sarah ist die Stammmutter Israels im Alten Testament und Ehefrau Abrahams. Trotz ihres hohen Alters gebar sie Isaak, den verheissenen Sohn. Ihr Name bedeutet Fuerstin und sie gilt als Vorbild des Glaubens.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 10,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "canonicalName": "Luisa",
+      "description": "Die heilige Luisa von Marillac war eine franzoesische Ordensschwester und Mitbegruenderin der Barmherzigen Schwestern. Gemeinsam mit Vinzenz von Paul widmete sie sich der Armenpflege und Krankenfuersorge im 17. Jahrhundert.",
+      "bornYear": 1591,
+      "diedYear": 1660,
+      "patronOf": "Patronin der Sozialarbeiter",
+      "nameDays": [
+        {
+          "month": 3,
+          "day": 15
+        }
+      ]
+    },
+    {
+      "canonicalName": "Manuel",
+      "description": "Der heilige Emmanuel (Manuel) war ein fruehchristlicher Maertyrer aus Kleinasien. Zusammen mit seinen Gefaehrten Sabel und Ismael erlitt er im Jahr 362 unter Kaiser Julian das Martyrium.",
+      "bornYear": null,
+      "diedYear": 362,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 6,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "canonicalName": "Dominik",
+      "description": "Der heilige Dominikus de Guzman war ein spanischer Priester und Gruender des Dominikanerordens im 13. Jahrhundert. Er setzte sich fuer die Predigt und Bildung ein und foerderte das Rosenkranzgebet. Sein Orden wurde zu einem der bedeutendsten Bettelorden.",
+      "bornYear": 1170,
+      "diedYear": 1221,
+      "patronOf": "Patron der Astronomen und Schneider",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 8
+        }
+      ]
+    },
+    {
+      "canonicalName": "Sabine",
+      "description": "Die heilige Sabina von Rom war eine roemische Adlige und Maertyrerin des 2. Jahrhunderts. Sie wurde von ihrer Dienerin Serapia zum Christentum bekehrt und erlitt unter Kaiser Hadrian das Martyrium. Die Basilika Santa Sabina in Rom ist ihr gewidmet.",
+      "bornYear": null,
+      "diedYear": 125,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 29
+        }
+      ]
+    },
+    {
+      "canonicalName": "Renate",
+      "description": "Der Namenstag Renate leitet sich vom heiligen Renatus ab, einem Bischof von Angers im 5. Jahrhundert. Er war bekannt fuer seine Mildtaetigkeit und seinen Einsatz fuer die Armen in seiner Dioezese.",
+      "bornYear": null,
+      "diedYear": 450,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 12
+        }
+      ]
+    },
+    {
+      "canonicalName": "Clemens",
+      "description": "Der heilige Clemens von Rom war der dritte Nachfolger des Apostels Petrus als Bischof von Rom. Sein Brief an die Korinther zaehlt zu den aeltesten christlichen Schriften ausserhalb des Neuen Testaments. Er starb als Maertyrer um das Jahr 101.",
+      "bornYear": null,
+      "diedYear": 101,
+      "patronOf": "Patron der Schiffer und Hutmacher",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 23
+        }
+      ]
+    },
+    {
+      "canonicalName": "Oliver",
+      "description": "Der heilige Oliver Plunkett war Erzbischof von Armagh und Primas von Irland. Er wurde 1681 in London unter falschen Anschuldigungen hingerichtet und 1975 heiliggesprochen. Er ist der letzte katholische Maertyrer Englands.",
+      "bornYear": 1625,
+      "diedYear": 1681,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "canonicalName": "Susanne",
+      "description": "Die heilige Susanna von Rom war eine fruehchristliche Maertyrerin aus dem 3. Jahrhundert. Sie war eine Verwandte von Papst Caius und wurde unter Kaiser Diokletian um 295 hingerichtet, weil sie sich weigerte, einen heidnischen Verwandten des Kaisers zu heiraten.",
+      "bornYear": null,
+      "diedYear": 295,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 11
+        }
+      ]
+    },
+    {
+      "canonicalName": "Robert",
+      "description": "Der heilige Robert Bellarmin war ein italienischer Jesuit, Kardinal und Kirchenlehrer des 16. Jahrhunderts. Er war einer der bedeutendsten Theologen der Gegenreformation und verfasste zahlreiche theologische Werke.",
+      "bornYear": 1542,
+      "diedYear": 1621,
+      "patronOf": "Patron der Katecheten",
+      "nameDays": [
+        {
+          "month": 9,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "canonicalName": "Helene",
+      "description": "Die heilige Helena war die Mutter des roemischen Kaisers Konstantin des Grossen. Sie pilgerte im hohen Alter ins Heilige Land und soll dort das Kreuz Christi aufgefunden haben. Sie gilt als eine der wichtigsten Frauen der fruehen Kirchengeschichte.",
+      "bornYear": 248,
+      "diedYear": 330,
+      "patronOf": "Patronin der Archaeologen und Nagelschmiede",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 18
+        }
+      ]
+    },
+    {
+      "canonicalName": "Eva",
+      "description": "Eva ist die erste Frau der biblischen Schoepfungsgeschichte. Zusammen mit Adam lebte sie im Garten Eden. Ihr Gedenktag wird gemeinsam mit Adam am 24. Dezember begangen.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 24
+        }
+      ]
+    },
+    {
+      "canonicalName": "Adam",
+      "description": "Adam ist der erste Mensch der biblischen Schoepfungsgeschichte. Er wurde nach dem Buch Genesis von Gott aus Erde geformt und in den Garten Eden gesetzt. Sein Gedenktag wird am Heiligen Abend begangen.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": "Patron der Gaertner",
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 24
+        }
+      ]
+    },
+    {
+      "canonicalName": "Elias",
+      "description": "Der Prophet Elija (Elias) war einer der groessten Propheten des Alten Testaments. Er wirkte im Nordreich Israel im 9. Jahrhundert vor Christus und trat gegen den Baalskult ein. Der Ueberlieferung nach wurde er auf einem feurigen Wagen in den Himmel entrückt.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": "Patron der Karmeliter",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 20
+        }
+      ]
+    },
+    {
+      "canonicalName": "Leon",
+      "description": "Der heilige Leo der Grosse war Papst von 440 bis 461 und einer der bedeutendsten Bischoefe Roms. Er verteidigte die Glaubenslehre auf dem Konzil von Chalcedon und bewahrte Rom vor der Pluenderung durch die Hunnen.",
+      "bornYear": 400,
+      "diedYear": 461,
+      "patronOf": "Patron der Musiker und Saenger",
+      "nameDays": [
+        {
+          "month": 11,
+          "day": 10
+        }
+      ]
+    },
+    {
+      "canonicalName": "Lena",
+      "description": "Der Namenstag Lena leitet sich von Helena oder Magdalena ab. Die heilige Maria Magdalena war eine Juengerin Jesu und erste Zeugin der Auferstehung. Sie wird in den Evangelien als treue Begleiterin Jesu beschrieben.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 22
+        }
+      ]
+    },
+    {
+      "canonicalName": "Hannah",
+      "description": "Hannah (Anna) ist im Alten Testament die Mutter des Propheten Samuel. Nach langer Kinderlosigkeit betete sie im Tempel um ein Kind und gelobte, es Gott zu weihen. Ihr Lobgesang gilt als Vorbild fuer das Magnificat Marias.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "canonicalName": "Niklas",
+      "description": "Der heilige Nikolaus von Myra war Bischof im 4. Jahrhundert in der heutigen Tuerkei. Er ist einer der bekanntesten und beliebtesten Heiligen und Vorbild fuer den Weihnachtsmann. Zahlreiche Legenden berichten von seiner Grosszuegigkeit.",
+      "bornYear": 270,
+      "diedYear": 343,
+      "patronOf": "Patron der Kinder, Seefahrer und Kaufleute",
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 6
+        }
+      ]
+    },
+    {
+      "canonicalName": "Florentina",
+      "description": "Die heilige Florentina von Cartagena war eine spanische Aebtissin im 7. Jahrhundert. Sie war die Schwester der Heiligen Leander, Isidor und Fulgentius von Sevilla und leitete ein grosses Kloster mit ueber tausend Nonnen.",
+      "bornYear": null,
+      "diedYear": 636,
+      "patronOf": null,
+      "nameDays": [
+        {
+          "month": 6,
+          "day": 20
+        }
+      ]
+    },
+    {
+      "canonicalName": "Martha",
+      "description": "Die heilige Martha von Bethanien war die Schwester von Maria und Lazarus und eine enge Vertraute Jesu. Sie ist im Lukasevangelium als gastfreundliche Hausfrau beschrieben, die Jesus in ihrem Haus aufnahm.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": "Patronin der Hausfrauen, Koeche und Gastwirte",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 29
+        }
+      ]
+    },
+    {
+      "canonicalName": "Karl",
+      "description": "Karl der Große (742–814) war König der Franken und der erste Kaiser des Heiligen Römischen Reiches. Er vereinte weite Teile Europas unter seiner Herrschaft und förderte Bildung und Christentum. Als \"Vater Europas\" wird er bis heute verehrt.",
+      "bornYear": 742,
+      "diedYear": 814,
+      "patronOf": "Patron Europas und der Schulen",
+      "nameDays": [
+        {
+          "month": 1,
+          "day": 28
+        }
+      ]
+    },
+    {
+      "canonicalName": "Katharina",
+      "description": "Katharina von Siena (1347–1380) war eine italienische Mystikerin, Kirchenlehrerin und Dominikanerterziarin. Sie setzte sich für die Rückkehr des Papstes von Avignon nach Rom ein und wurde zur Kirchenlehrerin ernannt. Sie ist Mitpatroni Europas.",
+      "bornYear": 1347,
+      "diedYear": 1380,
+      "patronOf": "Patronin Europas, Italiens und der Krankenpfleger",
+      "nameDays": [
+        {
+          "month": 4,
+          "day": 29
+        }
+      ]
+    },
+    {
+      "canonicalName": "Elisabeth",
+      "description": "Elisabeth von Portugal (1271–1336) war Königin von Portugal und bekannt für ihre Friedensstiftung und Fürsorge für die Armen. Sie vermittelte mehrfach in kriegerischen Auseinandersetzungen zwischen ihrem Mann und ihrem Sohn. Nach dem Tod ihres Mannes trat sie in den Klarissenorden ein.",
+      "bornYear": 1271,
+      "diedYear": 1336,
+      "patronOf": "Patronin Portugals und der Friedensstifter",
+      "nameDays": [
+        {
+          "month": 7,
+          "day": 4
+        }
+      ]
+    },
+    {
+      "canonicalName": "Stefan",
+      "description": "Stefan I. von Ungarn (969–1038) war der erste christliche König Ungarns und Staatsgründer. Er christianisierte das Magyarenvolk und gründete zahlreiche Bistümer und Klöster. Er gilt als Apostel Ungarns und nationaler Heiliger.",
+      "bornYear": 969,
+      "diedYear": 1038,
+      "patronOf": "Patron Ungarns",
+      "nameDays": [
+        {
+          "month": 8,
+          "day": 16
+        }
+      ]
+    },
+    {
+      "canonicalName": "Heinrich",
+      "description": "Heinrich von Uppsala war ein englischer Bischof und Missionar in Finnland im 12. Jahrhundert. Er begleitete König Erik IX. auf einem Kreuzzug nach Finnland und wurde dort als Märtyrer getötet. Er gilt als Apostel Finnlands.",
+      "bornYear": null,
+      "diedYear": 1156,
+      "patronOf": "Patron Finnlands",
+      "nameDays": [
+        {
+          "month": 1,
+          "day": 19
+        }
+      ]
+    },
+    {
+      "canonicalName": "Anna",
+      "description": "Anna Selbdritt bezeichnet das Motiv der heiligen Anna mit ihrer Tochter Maria und dem Jesuskind. Anna ist die Großmutter Jesu und wird besonders in der Volksfrömmigkeit als Helferin in der Not verehrt.",
+      "bornYear": null,
+      "diedYear": null,
+      "patronOf": "Patronin der Mütter, Witwen und Bergleute",
+      "nameDays": [
+        {
+          "month": 12,
+          "day": 9
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    {
+      "alias": "Hans",
+      "canonicalName": "Johannes"
+    },
+    {
+      "alias": "Hannes",
+      "canonicalName": "Johannes"
+    },
+    {
+      "alias": "Jan",
+      "canonicalName": "Johannes"
+    },
+    {
+      "alias": "Sepp",
+      "canonicalName": "Josef"
+    },
+    {
+      "alias": "Peppi",
+      "canonicalName": "Josef"
+    },
+    {
+      "alias": "Lisi",
+      "canonicalName": "Elisabeth"
+    },
+    {
+      "alias": "Lisa",
+      "canonicalName": "Elisabeth"
+    },
+    {
+      "alias": "Elsa",
+      "canonicalName": "Elisabeth"
+    },
+    {
+      "alias": "Kathi",
+      "canonicalName": "Katharina"
+    },
+    {
+      "alias": "Katja",
+      "canonicalName": "Katharina"
+    },
+    {
+      "alias": "Karen",
+      "canonicalName": "Katharina"
+    },
+    {
+      "alias": "Resi",
+      "canonicalName": "Theresia"
+    },
+    {
+      "alias": "Theresa",
+      "canonicalName": "Theresia"
+    },
+    {
+      "alias": "Gretl",
+      "canonicalName": "Margarete"
+    },
+    {
+      "alias": "Grete",
+      "canonicalName": "Margarete"
+    },
+    {
+      "alias": "Steffi",
+      "canonicalName": "Stefan"
+    },
+    {
+      "alias": "Stephan",
+      "canonicalName": "Stefan"
+    },
+    {
+      "alias": "Toni",
+      "canonicalName": "Antonius"
+    },
+    {
+      "alias": "Franzi",
+      "canonicalName": "Franziskus"
+    },
+    {
+      "alias": "Franz",
+      "canonicalName": "Franziskus"
+    },
+    {
+      "alias": "Xaver",
+      "canonicalName": "Franz Xaver"
+    },
+    {
+      "alias": "Heinz",
+      "canonicalName": "Heinrich"
+    },
+    {
+      "alias": "Heini",
+      "canonicalName": "Heinrich"
+    },
+    {
+      "alias": "Wolfi",
+      "canonicalName": "Wolfgang"
+    },
+    {
+      "alias": "Ludi",
+      "canonicalName": "Ludwig"
+    },
+    {
+      "alias": "Luis",
+      "canonicalName": "Ludwig"
+    },
+    {
+      "alias": "Basti",
+      "canonicalName": "Sebastian"
+    },
+    {
+      "alias": "Tina",
+      "canonicalName": "Christina"
+    },
+    {
+      "alias": "Christine",
+      "canonicalName": "Christina"
+    },
+    {
+      "alias": "Niki",
+      "canonicalName": "Nikolaus"
+    },
+    {
+      "alias": "Klaus",
+      "canonicalName": "Nikolaus"
+    },
+    {
+      "alias": "Michi",
+      "canonicalName": "Michael"
+    },
+    {
+      "alias": "Andi",
+      "canonicalName": "Andreas"
+    },
+    {
+      "alias": "Uschi",
+      "canonicalName": "Ursula"
+    },
+    {
+      "alias": "Hilde",
+      "canonicalName": "Hildegard"
+    },
+    {
+      "alias": "Gitti",
+      "canonicalName": "Brigitte"
+    },
+    {
+      "alias": "Dorle",
+      "canonicalName": "Dorothea"
+    },
+    {
+      "alias": "Vroni",
+      "canonicalName": "Veronika"
+    },
+    {
+      "alias": "Trude",
+      "canonicalName": "Gertrud"
+    },
+    {
+      "alias": "Trudi",
+      "canonicalName": "Gertrud"
+    },
+    {
+      "alias": "Jojo",
+      "canonicalName": "Josef"
+    },
+    {
+      "alias": "Berni",
+      "canonicalName": "Bernhard"
+    },
+    {
+      "alias": "Luki",
+      "canonicalName": "Lukas"
+    },
+    {
+      "alias": "Maxi",
+      "canonicalName": "Maximilian"
+    },
+    {
+      "alias": "Sigi",
+      "canonicalName": "Sigismund"
+    },
+    {
+      "alias": "Ben",
+      "canonicalName": "Benjamin"
+    },
+    {
+      "alias": "Benni",
+      "canonicalName": "Benjamin"
+    },
+    {
+      "alias": "Susi",
+      "canonicalName": "Susanne"
+    },
+    {
+      "alias": "Olli",
+      "canonicalName": "Oliver"
+    },
+    {
+      "alias": "Tobi",
+      "canonicalName": "Tobias"
+    },
+    {
+      "alias": "Manu",
+      "canonicalName": "Manuel"
+    },
+    {
+      "alias": "Dani",
+      "canonicalName": "Daniel"
+    },
+    {
+      "alias": "Leni",
+      "canonicalName": "Lena"
+    },
+    {
+      "alias": "Alex",
+      "canonicalName": "Alexander"
+    },
+    {
+      "alias": "Robbi",
+      "canonicalName": "Robert"
+    }
+  ]
+}
