@@ -13,7 +13,6 @@ import androidx.core.content.ContextCompat
 import com.speze88.namenstag.MainActivity
 import com.speze88.namenstag.R
 import com.speze88.namenstag.domain.model.ContactNameDay
-import com.speze88.namenstag.domain.model.NameDay
 import dagger.hilt.android.qualifiers.ApplicationContext
 import javax.inject.Inject
 import javax.inject.Singleton
@@ -35,10 +34,8 @@ class NameDayNotificationManager @Inject constructor(
         ).apply {
             description = "Benachrichtigungen über heutige Namenstage deiner Kontakte"
         }
-
-        val notificationManager =
-            context.getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
-        notificationManager.createNotificationChannel(channel)
+        val nm = context.getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
+        nm.createNotificationChannel(channel)
     }
 
     fun showNameDayNotification(contactNameDays: List<ContactNameDay>) {
@@ -50,35 +47,34 @@ class NameDayNotificationManager @Inject constructor(
             ) != PackageManager.PERMISSION_GRANTED
         ) return
 
-        createNotificationChannel()
-
-        val intent = Intent(context, MainActivity::class.java).apply {
-            flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
-        }
         val pendingIntent = PendingIntent.getActivity(
             context,
             0,
-            intent,
+            Intent(context, MainActivity::class.java).apply {
+                flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
+            },
             PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE,
         )
 
-        val names = contactNameDays.joinToString(", ") { it.contact.givenName }
-        val title = if (contactNameDays.size == 1) {
-            "Namenstag: ${contactNameDays.first().contact.givenName}"
-        } else {
-            "${contactNameDays.size} Kontakte haben heute Namenstag"
-        }
+        val title: String
+        val text: String
 
-        val text = if (contactNameDays.size == 1) {
+        if (contactNameDays.size == 1) {
             val cnd = contactNameDays.first()
-            val saintName = cnd.nameDays.firstOrNull()?.saint?.canonicalName ?: cnd.contact.givenName
-            "Heute ist der Namenstag von $saintName. ${cnd.nameDays.firstOrNull()?.saint?.description?.take(100) ?: ""}"
+            val saintName = cnd.nameDays.firstOrNull()?.saint?.canonicalName
+                ?: cnd.contact.givenName
+            title = "Namenstag: ${cnd.contact.givenName}"
+            val description = cnd.nameDays.firstOrNull()?.saint?.description
+                ?.take(120)?.let { "$it…" } ?: ""
+            text = "Heute ist der Namenstag von $saintName. $description".trim()
         } else {
-            "Heute haben Namenstag: $names"
+            val names = contactNameDays.joinToString(", ") { it.contact.givenName }
+            title = "${contactNameDays.size} Kontakte haben heute Namenstag"
+            text = names
         }
 
         val notification = NotificationCompat.Builder(context, CHANNEL_ID)
-            .setSmallIcon(android.R.drawable.ic_dialog_info)
+            .setSmallIcon(R.drawable.ic_notification)
             .setContentTitle(title)
             .setContentText(text)
             .setStyle(NotificationCompat.BigTextStyle().bigText(text))

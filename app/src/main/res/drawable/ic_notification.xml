@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Monochrome notification icon (white on transparent) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Calendar body outline -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M5,4 L19,4 C20.1,4 21,4.9 21,6 L21,20 C21,21.1 20.1,22 19,22 L5,22 C3.9,22 3,21.1 3,20 L3,6 C3,4.9 3.9,4 5,4 Z M5,6 L5,20 L19,20 L19,6 Z" />
+
+    <!-- Calendar header bar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M3,9 L21,9 L21,11 L3,11 Z" />
+
+    <!-- Cross — vertical bar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M11,13 L13,13 L13,19 L11,19 Z" />
+
+    <!-- Cross — horizontal bar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M8,15 L16,15 L16,17 L8,17 Z" />
+</vector>

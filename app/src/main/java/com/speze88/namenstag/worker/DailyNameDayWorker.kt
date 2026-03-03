@@ -10,6 +10,7 @@ import com.speze88.namenstag.domain.usecase.MatchContactNamesUseCase
 import com.speze88.namenstag.notification.NameDayNotificationManager
 import dagger.assisted.Assisted
 import dagger.assisted.AssistedInject
+import kotlinx.coroutines.flow.first
 import java.time.LocalDate
 
 @HiltWorker
@@ -27,9 +28,9 @@ class DailyNameDayWorker @AssistedInject constructor(
             nameDayRepository.seedDatabaseIfEmpty()
 
             val today = LocalDate.now()
-            val todaysNameDays = nameDayRepository.getAllNameDays().filter {
-                it.month == today.monthValue && it.day == today.dayOfMonth
-            }
+            val todaysNameDays = nameDayRepository
+                .getNameDaysByDate(today.monthValue, today.dayOfMonth)
+                .first()
 
             if (todaysNameDays.isEmpty()) return Result.success()
 
