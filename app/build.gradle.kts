@@ -1,3 +1,5 @@
+import java.util.Properties
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
@@ -5,6 +7,13 @@ plugins {
     alias(libs.plugins.kotlin.serialization)
     alias(libs.plugins.ksp)
     alias(libs.plugins.hilt)
+}
+
+// Load signing credentials from keystore.properties (keep out of source control)
+val keystorePropertiesFile = rootProject.file("keystore.properties")
+val keystoreProperties = Properties()
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(keystorePropertiesFile.inputStream())
 }
 
 android {
@@ -21,13 +30,34 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    signingConfigs {
+        create("release") {
+            keyAlias = (keystoreProperties["keyAlias"] as String?)
+                ?: System.getenv("KEY_ALIAS")
+            keyPassword = (keystoreProperties["keyPassword"] as String?)
+                ?: System.getenv("KEY_PASSWORD")
+            storeFile = (keystoreProperties["storeFile"] as String?)?.let { file(it) }
+                ?: System.getenv("STORE_FILE")?.let { file(it) }
+            storePassword = (keystoreProperties["storePassword"] as String?)
+                ?: System.getenv("STORE_PASSWORD")
+        }
+    }
+
     buildTypes {
         release {
-            isMinifyEnabled = false
+            isMinifyEnabled = true
+            isShrinkResources = true
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
+            signingConfig = if (keystorePropertiesFile.exists() ||
+                System.getenv("KEY_ALIAS") != null
+            ) {
+                signingConfigs.getByName("release")
+            } else {
+                signingConfigs.getByName("debug")
+            }
         }
     }
 

@@ -4,12 +4,32 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
+
+    <!-- Calendar ring tabs -->
     <path
-        android:fillColor="#6650a4"
-        android:pathData="M54,28 C40,28 28,40 28,54 C28,68 40,80 54,80 C68,80 80,68 80,54 C80,40 68,28 54,28Z" />
+        android:fillColor="#9575CD"
+        android:pathData="M36,22 Q36,20 38,20 L42,20 Q44,20 44,22 L44,36 L36,36 Z" />
+    <path
+        android:fillColor="#9575CD"
+        android:pathData="M64,22 Q64,20 66,20 L70,20 Q72,20 72,22 L72,36 L64,36 Z" />
+
+    <!-- Calendar body (white) -->
     <path
         android:fillColor="#FFFFFF"
-        android:pathData="M54,38 L54,54 L66,60"
-        android:strokeWidth="3"
-        android:strokeColor="#FFFFFF" />
+        android:pathData="M26,32 L82,32 Q88,32 88,38 L88,84 Q88,90 82,90 L26,90 Q20,90 20,84 L20,38 Q20,32 26,32 Z" />
+
+    <!-- Calendar header strip (light purple) -->
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M20,38 Q20,32 26,32 L82,32 Q88,32 88,38 L88,50 L20,50 Z" />
+
+    <!-- Cross — vertical bar (gold) -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M50,56 L58,56 L58,84 L50,84 Z" />
+
+    <!-- Cross — horizontal bar (gold) -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M34,64 L74,64 L74,72 L34,72 Z" />
 </vector>

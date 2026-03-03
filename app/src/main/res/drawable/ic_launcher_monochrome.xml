@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Monochrome icon for Android 13+ themed icons (Material You) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Calendar ring tabs -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,22 L44,22 L44,36 L36,36 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,22 L72,22 L72,36 L64,36 Z" />
+
+    <!-- Calendar body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,32 L82,32 Q88,32 88,38 L88,84 Q88,90 82,90 L26,90 Q20,90 20,84 L20,38 Q20,32 26,32 Z" />
+
+    <!-- Cross — vertical bar (inverted / punches through) -->
+    <path
+        android:fillColor="#6650A4"
+        android:pathData="M50,56 L58,56 L58,84 L50,84 Z" />
+
+    <!-- Cross — horizontal bar -->
+    <path
+        android:fillColor="#6650A4"
+        android:pathData="M34,64 L74,64 L74,72 L34,72 Z" />
+</vector>
