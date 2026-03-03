@@ -1,0 +1,8 @@
+Erste Veröffentlichung.
+
+• Heute-Ansicht mit allen Namenstagen des Tages
+• Monatskalender
+• Kontaktabgleich mit drei Matching-Stufen (exakt, Alias, Kölner Phonetik)
+• Namenssuche
+• Tägliche Benachrichtigungen um 7:00 Uhr
+• Rund 200 Heilige mit historischen Beschreibungen, über 55 Namens-Aliase

@@ -1,0 +1,27 @@
+Namenstag zeigt dir die katholischen Namenstage des heutigen Tages und gleicht sie automatisch mit deiner Kontaktliste ab – so verpasst du nie wieder den Namenstag eines Freundes oder Familienmitglieds.
+
+Die App enthält rund 200 Heilige mit historischen Beschreibungen sowie über 55 Namens-Aliase. Alle Daten sind vollständig offline verfügbar – keine Internetverbindung nötig, keine Werbung, kein Tracking.
+
+FUNKTIONEN
+
+• Heute-Ansicht: alle Namenstage des aktuellen Tages auf einen Blick
+• Kalender: Namenstage für beliebige Tage nachschlagen
+• Kontaktabgleich: erkennt automatisch, welche deiner Kontakte heute Namenstag haben
+• Namenssuche: Namenstage für beliebige Namen sofort finden
+• Tägliche Benachrichtigungen um 7:00 Uhr (optional)
+• Detailseite mit Lebensdaten, historischer Beschreibung und Patronat jedes Heiligen
+
+NAMENS-ZUORDNUNG
+
+Die App verwendet drei Stufen:
+1. Exakter Treffer (Groß-/Kleinschreibung wird ignoriert)
+2. Alias-Lookup: Hans → Johannes, Sepp → Josef, Lisi → Elisabeth u.v.m.
+3. Kölner Phonetik: ähnlich klingende Namen werden erkannt (z.B. Catarina → Katharina)
+
+DATENSCHUTZ
+
+Die App liest Kontaktnamen ausschließlich lokal auf deinem Gerät. Es werden keinerlei Daten übertragen oder gespeichert. Beide Berechtigungen (Kontakte, Benachrichtigungen) sind optional.
+
+OPEN SOURCE
+
+Der vollständige Quellcode ist auf GitHub verfügbar und steht unter der GPL-3.0-Lizenz.

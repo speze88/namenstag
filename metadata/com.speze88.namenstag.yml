@@ -1,0 +1,36 @@
+Categories:
+  - Religion & Culture
+
+License: GPL-3.0-only
+
+AuthorName: speze88
+
+# Ersetze die URLs mit deinem echten GitHub/Codeberg-Repository
+SourceCode: https://github.com/speze88/namenstag
+IssueTracker: https://github.com/speze88/namenstag/issues
+
+AutoName: Namenstag
+
+# Kurzbeschreibung für F-Droid (wird aus fastlane/metadata übernommen, falls vorhanden)
+Description: |-
+  Zeigt die katholischen Namenstage des Tages an und gleicht sie mit der
+  Kontaktliste des Geräts ab. Enthält rund 200 Heilige mit historischen
+  Beschreibungen sowie über 55 Namens-Aliase. Vollständig offline, ohne
+  Werbung und ohne Tracking.
+
+RepoType: git
+# Ersetze mit der echten Repo-URL
+Repo: https://github.com/speze88/namenstag.git
+
+Builds:
+  - versionName: '1.0'
+    versionCode: 1
+    commit: v1.0
+    subdir: app
+    gradle:
+      - release
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: '1.0'
+CurrentVersionCode: 1
