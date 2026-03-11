@@ -85,6 +85,19 @@ Release signing is loaded from `keystore.properties` or environment variables.
 
 If no signing config is provided, the release build falls back to the debug signing config.
 
+### GitHub Actions Release Workflow
+
+The repository includes a workflow at [`.github/workflows/android-release.yml`](.github/workflows/android-release.yml) that runs on every pushed tag, creates a GitHub Release, builds the release APK, and uploads the APK to the release.
+
+Optional GitHub Actions secrets for signed release builds:
+
+- `SIGNING_KEYSTORE_BASE64`
+- `SIGNING_STORE_PASSWORD`
+- `SIGNING_KEY_ALIAS`
+- `SIGNING_KEY_PASSWORD`
+
+If these secrets are not configured, the workflow still builds a release APK using the existing debug-signing fallback.
+
 ## Permissions
 
 - `READ_CONTACTS` for local contact-to-name-day matching
