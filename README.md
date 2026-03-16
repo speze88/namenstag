@@ -23,6 +23,15 @@ Namenstag is an Android app for looking up Catholic name days, matching them aga
 - `Contacts`: match device contacts to known names
 - `Search`: find name days instantly while typing
 
+<p align="center">
+  <img src="docs/screenshots/today.png" alt="Today screen" width="240" />
+  <img src="docs/screenshots/calendar.png" alt="Calendar screen" width="240" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/contacts.png" alt="Contacts screen" width="240" />
+  <img src="docs/screenshots/search.png" alt="Search screen" width="240" />
+</p>
+
 ## Tech Stack
 
 - Kotlin 2.1

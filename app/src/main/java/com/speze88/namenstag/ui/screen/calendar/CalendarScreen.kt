@@ -10,6 +10,7 @@ import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.aspectRatio
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.grid.GridCells
@@ -121,8 +122,10 @@ fun CalendarScreen(
             columns = GridCells.Fixed(7),
             modifier = Modifier
                 .fillMaxWidth()
+                .height(320.dp)
                 .padding(horizontal = 4.dp),
             contentPadding = PaddingValues(4.dp),
+            userScrollEnabled = false,
         ) {
             items(calendarDays) { date ->
                 if (date == null) {
@@ -193,6 +196,7 @@ fun CalendarScreen(
             }
         } else {
             LazyColumn(
+                modifier = Modifier.weight(1f),
                 contentPadding = PaddingValues(horizontal = 16.dp, vertical = 8.dp),
                 verticalArrangement = Arrangement.spacedBy(8.dp),
             ) {

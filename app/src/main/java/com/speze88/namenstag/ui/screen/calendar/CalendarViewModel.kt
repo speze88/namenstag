@@ -37,6 +37,7 @@ class CalendarViewModel @Inject constructor(
 
     fun selectDate(date: LocalDate) {
         _uiState.value = _uiState.value.copy(
+            currentMonth = YearMonth.from(date),
             selectedDate = date,
             isLoading = true,
         )
@@ -52,16 +53,18 @@ class CalendarViewModel @Inject constructor(
     }
 
     fun changeMonth(yearMonth: YearMonth) {
-        _uiState.value = _uiState.value.copy(currentMonth = yearMonth)
+        selectDate(
+            yearMonth.atDay(
+                minOf(_uiState.value.selectedDate.dayOfMonth, yearMonth.lengthOfMonth()),
+            ),
+        )
     }
 
     fun previousMonth() {
-        val newMonth = _uiState.value.currentMonth.minusMonths(1)
-        _uiState.value = _uiState.value.copy(currentMonth = newMonth)
+        changeMonth(_uiState.value.currentMonth.minusMonths(1))
     }
 
     fun nextMonth() {
-        val newMonth = _uiState.value.currentMonth.plusMonths(1)
-        _uiState.value = _uiState.value.copy(currentMonth = newMonth)
+        changeMonth(_uiState.value.currentMonth.plusMonths(1))
     }
 }
