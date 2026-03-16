@@ -3,6 +3,7 @@ package com.speze88.namenstag.domain.usecase
 import com.speze88.namenstag.domain.model.ContactNameDay
 import com.speze88.namenstag.domain.model.NameDay
 import com.speze88.namenstag.domain.model.UpcomingContactNameDay
+import com.speze88.namenstag.domain.model.effectiveNameDays
 import java.time.LocalDate
 import java.time.temporal.ChronoUnit
 import javax.inject.Inject
@@ -31,7 +32,7 @@ internal fun findUpcomingContactNameDays(
 }
 
 private fun ContactNameDay.nextUpcomingNameDay(today: LocalDate): UpcomingContactNameDay? {
-    val nextEntry = nameDays
+    val nextEntry = effectiveNameDays
         .map { nameDay ->
             val date = nameDay.nextOccurrenceAfter(today)
             UpcomingContactNameDay(

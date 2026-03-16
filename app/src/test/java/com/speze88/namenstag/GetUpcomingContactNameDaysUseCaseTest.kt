@@ -93,6 +93,29 @@ class GetUpcomingContactNameDaysUseCaseTest {
             result.map { it.contactNameDay.contact.displayName },
         )
     }
+
+    @Test
+    fun `preferred name day is used for next upcoming calculation`() {
+        val earlierNameDay = NameDay("Johannes", 4, 10, saintJohannes)
+        val preferredNameDay = NameDay("Johannes", 8, 29, saintJohannes)
+
+        val result = findUpcomingContactNameDays(
+            contactNameDays = listOf(
+                contactNameDay(
+                    id = "1",
+                    displayName = "Johannes Schmidt",
+                    givenName = "Johannes",
+                    nameDays = listOf(earlierNameDay, preferredNameDay),
+                    preferredNameDay = preferredNameDay,
+                ),
+            ),
+            today = LocalDate.of(2026, 4, 1),
+        )
+
+        assertEquals(1, result.size)
+        assertEquals(LocalDate.of(2026, 8, 29), result.first().date)
+        assertEquals(preferredNameDay, result.first().nextNameDay)
+    }
 }
 
 private fun contactNameDay(
@@ -100,6 +123,7 @@ private fun contactNameDay(
     displayName: String,
     givenName: String,
     nameDays: List<NameDay>,
+    preferredNameDay: NameDay? = null,
 ) = ContactNameDay(
     contact = Contact(
         id = id,
@@ -108,4 +132,5 @@ private fun contactNameDay(
     ),
     nameDays = nameDays,
     matchType = MatchType.EXACT,
+    preferredNameDay = preferredNameDay,
 )

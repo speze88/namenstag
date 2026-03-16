@@ -13,6 +13,7 @@ import androidx.core.content.ContextCompat
 import com.speze88.namenstag.MainActivity
 import com.speze88.namenstag.R
 import com.speze88.namenstag.domain.model.ContactNameDay
+import com.speze88.namenstag.domain.model.effectiveNameDays
 import dagger.hilt.android.qualifiers.ApplicationContext
 import javax.inject.Inject
 import javax.inject.Singleton
@@ -61,10 +62,10 @@ class NameDayNotificationManager @Inject constructor(
 
         if (contactNameDays.size == 1) {
             val cnd = contactNameDays.first()
-            val saintName = cnd.nameDays.firstOrNull()?.saint?.canonicalName
+            val saintName = cnd.effectiveNameDays.firstOrNull()?.saint?.canonicalName
                 ?: cnd.contact.givenName
             title = "Namenstag: ${cnd.contact.givenName}"
-            val description = cnd.nameDays.firstOrNull()?.saint?.description
+            val description = cnd.effectiveNameDays.firstOrNull()?.saint?.description
                 ?.take(120)?.let { "$it…" } ?: ""
             text = "Heute ist der Namenstag von $saintName. $description".trim()
         } else {
