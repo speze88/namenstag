@@ -2,7 +2,7 @@
 
 [![License: GPL-3.0-only](https://img.shields.io/badge/License-GPL--3.0--only-blue.svg)](LICENSE)
 [![Platform: Android](https://img.shields.io/badge/Platform-Android%208.0%2B-3DDC84.svg)](https://developer.android.com/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-2.1-7F52FF.svg)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.4.21-7F52FF.svg)](https://kotlinlang.org/)
 
 Namenstag is an Android app for looking up Catholic name days, matching them against local contacts, and sending optional daily reminders. The app works fully offline and keeps contact processing on-device.
 
@@ -34,8 +34,8 @@ Namenstag is an Android app for looking up Catholic name days, matching them aga
 
 ## Tech Stack
 
-- Kotlin 2.1
-- Android Gradle Plugin 8.7
+- Kotlin 2.4.21
+- Android Gradle Plugin 9.5.1
 - Jetpack Compose + Material 3
 - Hilt
 - Room
@@ -46,7 +46,8 @@ Namenstag is an Android app for looking up Catholic name days, matching them aga
 ## Requirements
 
 - JDK 17
-- Android Studio with Android SDK 35
+- Gradle 9.9.1 (provided by the wrapper)
+- Android Studio with Android SDK 37 (platform package `platforms;android-37.0`)
 - Android 8.0+ device or emulator (`minSdk 26`)
 
 ## Quick Start
@@ -143,6 +144,7 @@ app/src/main/java/com/speze88/namenstag/
 
 - User manual: [`HANDBUCH.md`](HANDBUCH.md)
 - Privacy policy: [`privacy_policy.html`](privacy_policy.html)
+- Dependency updates and vulnerability audit: [`docs/dependency-audit.md`](docs/dependency-audit.md)
 
 ## Contributing
 

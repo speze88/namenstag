@@ -2,7 +2,6 @@ import java.util.Properties
 
 plugins {
     alias(libs.plugins.android.application)
-    alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
     alias(libs.plugins.kotlin.serialization)
     alias(libs.plugins.ksp)
@@ -18,7 +17,7 @@ if (keystorePropertiesFile.exists()) {
 
 android {
     namespace = "com.speze88.namenstag"
-    compileSdk = 35
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.speze88.namenstag"
@@ -66,16 +65,23 @@ android {
         targetCompatibility = JavaVersion.VERSION_17
     }
 
-    kotlinOptions {
-        jvmTarget = "17"
-    }
-
     buildFeatures {
         compose = true
     }
 }
 
+kotlin {
+    compilerOptions {
+        jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_17)
+    }
+}
+
 dependencies {
+    constraints {
+        // Hilt/Room processors still request Guava versions affected by CVE-2026-102554.
+        add("ksp", "com.google.guava:guava:33.8.0-jre")
+    }
+
     // Compose BOM
     val composeBom = platform(libs.compose.bom)
     implementation(composeBom)
@@ -104,7 +110,7 @@ dependencies {
     // Hilt
     implementation(libs.hilt.android)
     ksp(libs.hilt.compiler)
-    implementation(libs.hilt.navigation.compose)
+    implementation(libs.hilt.viewmodel.compose)
     implementation(libs.hilt.work)
     ksp(libs.hilt.work.compiler)
 
